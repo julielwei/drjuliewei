@@ -1,0 +1,65 @@
+---
+title: Getting Healthy is a Team Sport – Part 2
+author: julie
+layout: post
+permalink: /getting-healthy-is-a-team-sport-part-2/
+sc_chat_opt_show_chatbox:
+  - off
+pyre_show_title:
+  - yes
+pyre_show_featured:
+  - yes
+pyre_en_sidebar:
+  - yes
+pyre_sidebar_pos:
+  - right
+pyre_youtube:
+  - 
+pyre_vimeo:
+  - 
+pyre_background:
+  - 
+pyre_en_full_screen:
+  - no
+pyre_bg_color:
+  - 
+pyre_bg_repeat:
+  - no-repeat
+pyre_bg_position:
+  - top left
+pyre_bg_attach:
+  - fixed
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
+---
+As I reflect on our new life, my new job as the Division Chief of Otolaryngology (Ear, Nose, and Throat) at a children’s hospital, and the task ahead of me to become visible and useful as a physician and surgeon in Orlando and Central Florida, there is no doubt this has been one of if not the most humbling experience I have ever had.  After spending 10 years  in Kansas City serving referral physicians, children, and their families from both Kansas and Missouri state, I had finally been blessed to have built an incredibly busy practice taking care of not only otherwise very healthy children who had fairly easy to treat ENT problems, but also had the opportunity to care for children with breathing and swallowing issues who also had the most complex of medical conditions including genetic disorders and other problems that require long term support like that of tracheostomy for breathing and gastrostomy tube for feeding. In hindsight, what I was not taught in medical school, or even residency and fellowship training, was the importance of developing a strong network of specialists and other health providers in order to take care of a child, the entire child.
+
+In *A Healthier Wei*, I share my career epiphany that symptoms which present in what appears to be one organ system often are related to problems which may involve multiple organ systems.  This is why when we the physicians and other providers are trying to diagnose a child’s health issues and make the best recommendations for treatment options, we must be open to consider possibilities which may involve another related organ system, and often need our colleagues in other subspecialties to help us manage all the symptoms and make the child completely well.  I am blessed to have had the opportunity to train to become an ear, nose, and throat/head and neck surgeon at the Mayo Clinic in Rochester, Minnesota. My 5 years training in that amazing health care system taught me first hand not only world class professionalism, but also how well we serve our patients when the various disciplines and subspecialists all communicate with one another, with an internist/primary care physician serving as the “quarterback” and helping the patient understand the thought process of the treating physicians, interpret the test results, and support the patient  through the treatment options recommended by not only one specialist but all who are involved. Another incredible thing I witnessed as a resident at Mayo Clinic was that often, the patients we cared for in our specialty also required care from other specialists, and I really did not remember observing egos amongst physicians but a very collaborative approach which were always patient-centered.
+
+I finished residency in 2001, and now, 12 years later, I am excited to find myself working full time in a children’s hospital, not simply because it’s new and gorgeous, but because it is part of the Nemours Health System, which is a dedicated pediatric health care system that is patient and family-centered.  I have found myself after all these years to have the opportunity to work in an environment which all providers are not only encouraged, but expected, to care for the child as a whole, and the family as a part of the team.
+
+But it’s not enough to just show up and join such an amazing health care system.  These past weeks have been humbling, and truly overwhelming at times, when I think about what I need to do in order to be the excellent physician/surgeon that I worked so hard to be like I was able to be in Kansas City.  What I need is visibility and opportunities to serve one family at a time, one referring physician at a time, and do so in as many parts of central Florida as possible so that hopefully, I can earn the respect, trust, and help from as many primary care physician, patient families, and colleagues in all specialties, so that I can be utilized for the expertise and experience I have gained from treating incredibly complex ENT issues for the past 10 years.   When you are invisible, and no one knows you or how good you are, or what you are capable of doing for patient families, how can you be best utilized or even contacted to answer questions regarding treatment options for a patient? When providers are used to a certain referral pattern, and are asked to consider creating new ones, it is a lot to ask for to have a primary care provider send their patient to see someone “new”.  I am indeed new to the area, but my commitment to being the best pediatric ENT surgeon/physician is certainly not new, and my clinical decision making will continued to be based on over 10 years of treating thousands of children and their families and certainly not “new”.
+
+I wake up in the middle of the night wondering, what have I done? Did I really understand what I was doing? I moved my entire family away from friends that we love, our own network of the best dentists, doctors, veterinarian for Shiro, school for Claire, best piano teacher for Claire, and myself away from my colleagues, nurses, nurse practitioner, OR nurses, and entire hospital full of specialists and other professionals.  I basically left my entire professional world of a TEAM of people, who helped me function at my highest level possible as a pediatric ENT. Now, in the past four weeks, I am just beginning to learn my new world. It is clear that in order to function at the highest level that I am capable of, I need to get to know and establish an entire new “TEAM” of people, including anesthesiologist, other specialists, primary physicians and providers, speech and language therapists, occupational and physical therapists, child development specialists, GI and lung doctors, sleep medicine specialist, the list is endless. How was I to know back in medical school that becoming an ENT meant that I would spend my career dealing with the most critical systems for human functioning, including breathing, swallowing, hearing and communication?
+
+What a privilege it is to be here! What an amazing opportunity to have my family support me to pursue my dream of building again. I would not have left KC if I did not believe that with the right support, being in the right environment, working in the right organization with the right culture, one that focuses on children and their families as much as they do the excellence of the medical and surgical care they provide, I can do good in an entire new city/region/state.  This is not about me, this is about how a group of amazing individuals came together to deliver amazing and unprecedented type of care to children and their families to ensure achieving of health and freedom from disabilities like no other system.
+
+My reminder to myself, each and every day, is that I must be patient, and simply do what I know best. I will treat one patient/family at a time, one day at a time, and give them everything I have to offer. With consistent excellence and care to each patient, I hope that I will indeed earn the respect, trust, and build the reputation of someone who is not only excellent but treats people with the utmost compassion and respect, and whom patients and families enjoy interacting with. I was that person in Kansas and Missouri, and I know that person did not change simply due to driving 2 days through 7 states to get here.
+
+Here’s to finding my new TEAM! I hope you find yours for you and your entire family, so that we can all live the best, most healthy, and empowered lives we can.
+
+<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
+
+<p style="height:80px">
+  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
+</p>
+
+\-----
+
+Dr. Julie Wei is a pediatric ear, nose, and throat specialist and the author of [A Healthier Wei][1]. As a mother herself, Dr. Wei is a passionate advocate for improving children's health through better diet and dietary habits. She has been committed to helping parents learn how to eliminate their child's ear, nose, and throat problems simply by reducing excessive sugar and dairy intake, as well as minimizing habitual late night snacking. She hopes to raise awareness for the need for accountability by both medical professionals and parents to ensure that children are not prescribed or take unnecessary medications long term. 
+
+When she is not in the clinic, operating room, or conducting research, you will find her in the kitchen preparing food with love along with her daughter Claire. If you sit next to her on the plane, she will likely share with you information about how to minimize choking hazards in young children, and many other tips for improving your child's health.
+
+ [1]: the-book

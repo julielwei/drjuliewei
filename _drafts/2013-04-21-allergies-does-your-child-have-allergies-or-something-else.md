@@ -1,0 +1,68 @@
+---
+title: 'ALLERGIES: Does Your Child Have Allergies or Something Else?'
+author: julie
+layout: post
+permalink: /allergies-does-your-child-have-allergies-or-something-else/
+sc_chat_opt_show_chatbox:
+  - off
+pyre_show_title:
+  - yes
+pyre_show_featured:
+  - yes
+pyre_en_sidebar:
+  - yes
+pyre_sidebar_pos:
+  - right
+pyre_youtube:
+  - 
+pyre_vimeo:
+  - 
+pyre_background:
+  - 
+pyre_en_full_screen:
+  - no
+pyre_bg_color:
+  - 
+pyre_bg_repeat:
+  - no-repeat
+pyre_bg_position:
+  - top left
+pyre_bg_attach:
+  - fixed
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
+---
+It’s April 20<sup>th</sup>, yet here in Kansas City, there is forecast for possible snow next Tuesday. It certainly feels like Spring decided to take the year off and we are left to wait for summer. The trees and grass however, have braved the low temperatures, giving us hope that warmer weather is around the corner based on their recent activity.  As a pediatric <a class="zem_slink" title="Otolaryngology" href="http://en.wikipedia.org/wiki/Otolaryngology" target="_blank" rel="wikipedia">ear, nose, and throat</a> specialist, I am grateful for job security as we transition from what seems to be another never ending cold and flu season right into the allergy season.  As I discuss in [*A Healthier Wei*][1], one of the most common reasons young preschool aged children and all children are prescribed systemic allergy medications, both in the forms of nasal sprays and pills, are for presumed allergies to a variety of things in our environment.  I have met countless preschoolers who have been on daily medication for years, continuously, despite seasons.  These are children who have not undergone formal <a class="zem_slink" title="Allergy test" href="http://en.wikipedia.org/wiki/Allergy_test" target="_blank" rel="wikipedia">allergy testing</a> for a very good reason: allergy testing is not sensitive or definitive in young children.  Children can be born allergic to food and animals, but really need a few years (with exposure to the variety of aeroallergens) to perhaps develop allergies to trees, grass, pollen, mold, dustmites, etc.  Whenever I meet young children who come to see me for runny nose, congestion, and “stuff” head, despite being on years of allergy medications and other over-the-counter medications, I truly enjoy the opportunity to help families figure out what the problem truly is.
+
+First, food allergies are likely to be picked up in the first year of life, based on development of hives, bloody stool, or other signs that the pediatrician would likely notice or be informed about.  In children younger than four, blood testing is typically used and can be ordered by pediatricians or allergy specialists to see if the child may show signs of being allergic to food and or other common allergens. This test is called RAST, short for **<a class="zem_slink" title="RAST test" href="http://en.wikipedia.org/wiki/RAST_test" target="_blank" rel="wikipedia">radioallergosorbent test</a>. **ItIt is beyond the scope of this blog to get into how accurate and confusing such test results are, as there are many infants who may show <a class="zem_slink" title="Medical test" href="http://en.wikipedia.org/wiki/Medical_test" target="_blank" rel="wikipedia">positive test</a> results indicating “allergy” to milk, eggs, etc, and truly can still tolerate exposure to such foods without significant medical issues.  By the way, nuts are an entirely different story and any allergies to tree nut or peanut must be discussed and worked up in detail with your child’s primary physician and allergy specialists.
+
+Another test is a <a class="zem_slink" title="Skin allergy test" href="http://en.wikipedia.org/wiki/Skin_allergy_test" target="_blank" rel="wikipedia">skin allergy test</a>, which determines presence and degree of allergy by the reaction of a person&#8217;s skin to different substances introduced to it. Skin testing is further divided into skin prick (scratch) test or intradermal test. Skin testing is generally not ordered until a child is older than 4, as it would be difficult for younger children to tolerate being still while enduring many pokes on their backs. More importantly, the test may not be sensitive or be falsely negative.
+
+What I share with parents as reasonable ways to guess whether their child has true allergies to the environment are the following:  1) **<a class="zem_slink" title="Itch" href="http://en.wikipedia.org/wiki/Itch" target="_blank" rel="wikipedia">Itching</a>. **As the trees and flowers come into bloom and grasses are turning green again, if your child is constantly rubbing and itching his/her eyes and nose, then it is more likely that he/she is truly showing signs of being allergic to what’s in the air. I have had many parents tell me that after an outdoor soccer game their child has significant itching, congestion, and even “puffy” eyes (eyelids), and such may be hints to a child with true allegies.  2) **<a class="zem_slink" title="Parent" href="http://en.wikipedia.org/wiki/Parent" target="_blank" rel="wikipedia">Parental</a> history** **of test-proven allergies**. If either parent has a history of allergies to the environment based on positive skin testing, not just hay fever symptoms, then the child has 40-60% chance of developing allegies to aeroallergens sometime in their life.  I tell parents that anytime the child has been on medications and symptoms are not better, then consider coming off of medications.
+
+During the office visit with me, (or any ear, nose, and throat specialist), I can perform a relatively simple office “scope” procedure, during which a fiber optic camera the size of a thin spaghetti noodle, is gently inserted into the nasal passage about 2 inches deep. I can then directly see if it’s an enlarged adenoid tissue that is causing blockage of nasal breathing. This is also helpful when I show the parents when I find this. If the adenoid is not enlarged, then of course we can rule out any need or indication for surgical intervention.  I can’t tell you how many toddlers come to see me during which time I diagnose enlarged adenoid, when all along they have been treated for allergies without improvement since allergy was not the problem. These are also children who likely snore nightly and have runny nose very often.
+
+Finally, I always ask about eating habits and constipation. If your child has the Milk and Cookie Disease, and goes to bed with a stomach full of food/liquids, then often you will see the after effects as pretty bad congestion in the morning, or even throughout the day. Anytime a child has constipation, I ask the parents to treat them through diet and even use of Miralax, since constipation may contribute to congestion. See[ ***5 Tips to A Healthier Wei ***][2]on our website.  Since there are many causes for why children have runny nose (see my other blog on [***Runny Nose***][3]), it can certainly be confusing when trying to figure out whether true allergies are the cause of your child’s nasal symptoms.  Your young child could grow up and prove himself/herself to have test proven allergies to the beautiful trees and flowers around us, but during their preschool years it is much more likely that they have congestion and runny noses due to colds, enlarged adenoid, and/or reflux related <a class="zem_slink" title="Nasal congestion" href="http://en.wikipedia.org/wiki/Nasal_congestion" target="_blank" rel="wikipedia">nasal congestion</a> from excessive dairy and sugar intake.
+
+<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;">
+  <a class="zemanta-pixie-a" title="Dr. Wei" href="dr-wei/"><span style="color: #000000;">Dr. Julie Wei is Pediatric Ear, Nose, and Throat specialist, author of <em>A Healthier Wei</em>.</span><img class="zemanta-pixie-img" style="border: none; float: right;" alt="Enhanced by Zemanta" src="http://img.zemanta.com/zemified_e.png?x-id=b8beff8f-f017-4fac-8d8d-0f7aef52b5a2" /></a> She has helped thousands of families reclaim the health of their children through better diet and dietary habits, while minimizing the use of medications whenever possible. She considers her 7 year old daughter Claire, her greatest joy in life.
+</div>
+
+<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
+
+<p style="height:80px">
+  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
+</p>
+
+\-----
+
+Dr. Julie Wei is a pediatric ear, nose, and throat specialist and the author of [A Healthier Wei][4]. As a mother herself, Dr. Wei is a passionate advocate for improving children's health through better diet and dietary habits. She has been committed to helping parents learn how to eliminate their child's ear, nose, and throat problems simply by reducing excessive sugar and dairy intake, as well as minimizing habitual late night snacking. She hopes to raise awareness for the need for accountability by both medical professionals and parents to ensure that children are not prescribed or take unnecessary medications long term. 
+
+When she is not in the clinic, operating room, or conducting research, you will find her in the kitchen preparing food with love along with her daughter Claire. If you sit next to her on the plane, she will likely share with you information about how to minimize choking hazards in young children, and many other tips for improving your child's health.
+
+ [1]: the-book/ "The Book"
+ [2]: 5-tips/ "5 Tips to A Healthier Wei"
+ [3]: top-3-reasons-why-your-child-has-runny-nose-all-the-time/ "Top 3 Reasons Why Your Child Has Runny Nose All the Time"
+ [4]: the-book

@@ -1,0 +1,67 @@
+---
+title: Top Reasons Your Child Should Try Nasal Irrigation
+author: julie
+layout: post
+permalink: /top-reasons-for-nasal-irrigation/
+sc_chat_opt_show_chatbox:
+  - off
+pyre_show_title:
+  - yes
+pyre_show_featured:
+  - yes
+pyre_en_sidebar:
+  - yes
+pyre_sidebar_pos:
+  - right
+pyre_youtube:
+  - 
+pyre_vimeo:
+  - 
+pyre_background:
+  - 
+pyre_en_full_screen:
+  - no
+pyre_bg_color:
+  - 
+pyre_bg_repeat:
+  - no-repeat
+pyre_bg_position:
+  - top left
+pyre_bg_attach:
+  - fixed
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
+---
+<img class="alignleft  wp-image-827" alt="neilmed-sinus-rinse" src="/wp-content/uploads/2013/10/neilmed-sinus-rinse-238x300.jpg" width="143" height="180" />I spent this week in Vancouver, British Columbia attending our annual [American Academy of Otolaryngology Head and Neck Surgery][1] meeting, where ENT specialists from the US and all over the globe come together to share their research results, clinical experience, as well as cutting edge ideas about how to help patients in every aspect of ENT diseases. While I am an ENT who specializes in treating children and am often interacting with colleagues who do what I do, I appreciate the opportunity at every one of these gatherings to meet new colleagues and gain tremendous new information about how to be better equipped to treat my patients.
+
+This year I had the incredible opportunity to meet the thought leaders in adult “rhinology” (nose) as well as speak to over 150 physicians about my research showing that children not only tolerate nasal irrigation, but in fact the simple act of “washing” their little noses can significantly improve their quality of life by stopping chronic cough, nasal stuffiness, headache, and even runny nose. Furthermore, not only do the children stop having symptoms after washing their nose once a day using the [Neil Med Sinus Rinse ][2]squeeze bottle and salt water (using prepared buffered salt packets), many of the patients had evidence of reversal of chronic sinus mucous membrane inflammation as seen on CT scans without using any medications or additional treatments. What I am about to tell you are things I learned from countless parents and families after they helped their child use saline irrigation, and not from textbooks.
+
+Here are top reasons why a child age 4 or older should learn and experience the benefits of saline irrigation:
+
+**1) It works!** Inside the nose, there are unique structures called “turbinates” that are lined by pink mucous membrane, and all over these membranes are thousands of “cilia” which beat in unison (hopefully) and acts as a filter for the air we breathe into our lungs, as well as humidify the air to help human lungs work at its optimal state, and also moves any mucus along to the back of the throat. My own research showed that when children age 4 and older came to see me with over 3 months of nasal congestion, cough, along with other symptoms and abnormal CT scans, without significant improvement despite having been on multiple medications including daily use of antihistamines like “Zyrtec, Allegra, or Claritin” and nasal steroid spray like “Flonase”, “Nasocort”, etc. Often times parents tell me that the first few days not a whole lot happens, in fact, the salt water doesn’t come out of the other nostril like it’s suppose to. But for those who stick with it, after only 3-4 days of once a day irrigation, often times lots of “nasty” snot comes out! Nothing makes parents and ENT doctors like me happier than seeing nasty stuff come out of the nose because that means the snot is no longer inside the child! Just as a moist booger is easier to blow out of our nose than a dried crusty one, gently delivering salt water up in to the nasal passage will moisten and soften up mucus and allow it an easier and quicker journey out of the nasal passages and its nooks and crannies. In fact, if you have never tried it, you should. Usually immediately after irrigating, you will likely feel that it is easier to breathe through your nose and there is less congestion. Children are often suffering from too much snot, which can be incredibly sticky sometimes, and can be of any shade of white, yellow, and even greenish color. Remember, the color of mucus does not represent a bacterial infection so don’t go seeing a physician or provider demanding oral antibiotics. The great thing about using nasal saline irrigation is that regardless of color, gently rinsing the nose will get snot out of all color. My passion for recommending nasal saline irrigation is to help children avoid oral antibiotics all together, along with the possibility of becoming more healthy without having to see physicians or experiencing the risk of “misdiagnosis” and/or “overmedication”.
+
+**2) It’s easy!** After over 10 years of recommending irrigation to families, and learning from their feedback on how they were able to help their child irrigate successfully, I have learned that there are definitely some tricks to the trade. • Let the child play with the squeeze bottle first, during bath time or anytime. Using it as a gently squirting water gun typically will engage any child into playing with the squeeze bottle • Let the child do it themselves whenever possible. Hold the tip to the nostril, the adult supervising this can count slowly, “1….2…..3..”, so that hopefully by the time you get to 5 water has begun to come out the other nostril • Remind child not to sniff in, but they can blow out after the irrigation. When we sniff in, the opening to the Eustachian tube will temporarily open allowing some salt water to go to that tube and may case ear pain. • Have the child watch a YouTube video so they can see other children doing it • Don’t’ be afraid to bribe, positive reinforcement is key • Lean head forward not back, so water doesn’t run down back of throat
+
+**3) It’s inexpensive!** A Neil Med Sinus Rinse squeeze bottle/kit with 5 starter buffered salt packets is about 10.00. After each use the bottle may be rinsed out with soap and water and allowed to air dry. Compared to a single prescription of oral antibitoics, this should be much more inexpensive especially if the antibiotic is not generic.
+
+**4) It can reduce need for additional medications!** I can’t tell you how many times families tell me that their child, even if it’s a child with test proven allergies, is able to use less medication and less often, after using daily irrigation. When the nose feels better, there is no need to use decongestants, or even allergy medication(s) blaming allergies for why there is severe congestion. My challenge as a pediatric ENT is that countless children are prescribed allergy medications and nasal sprays when they have not undergone evaluation and/or testing to prove that they in fact are allergic to variety of allergens in the environment. My research on children with chronic rhinosinusitis, meaning symptoms of cough and nasal congestion for over 3 months, with CT scan proving they had mucosal thickening in their sinus cavities, once daily saline irrigation for 3 weeks significantly reduced their symptoms, and reversed mucosal inflammation in their sinus cavities!
+
+While some parents squeeze the bottle instead of the child, children age 4 and older are usually able to<a href="http://www.youtube.com/watch?v=aZgueuvJIsQ" target="_blank"> do it themselves</a>. Both way will work. Try it today, teach your child a life skill that he/she can use for all future episodes of nasal problems related to colds and allergies.
+
+<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
+
+<p style="height:80px">
+  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
+</p>
+
+\-----
+
+Dr. Julie Wei is a pediatric ear, nose, and throat specialist and the author of [A Healthier Wei][3]. As a mother herself, Dr. Wei is a passionate advocate for improving children's health through better diet and dietary habits. She has been committed to helping parents learn how to eliminate their child's ear, nose, and throat problems simply by reducing excessive sugar and dairy intake, as well as minimizing habitual late night snacking. She hopes to raise awareness for the need for accountability by both medical professionals and parents to ensure that children are not prescribed or take unnecessary medications long term. 
+
+When she is not in the clinic, operating room, or conducting research, you will find her in the kitchen preparing food with love along with her daughter Claire. If you sit next to her on the plane, she will likely share with you information about how to minimize choking hazards in young children, and many other tips for improving your child's health.
+
+ [1]: http://www.entnet.org/
+ [2]: http://www.neilmed.com/usa/sinusrinse_pediatric.php
+ [3]: the-book

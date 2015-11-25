@@ -1,0 +1,70 @@
+---
+title: Does Your Child Have Speech Delay?
+author: julie
+layout: post
+permalink: /does-your-child-have-speech-delay/
+sc_chat_opt_show_chatbox:
+  - off
+pyre_show_title:
+  - yes
+pyre_show_featured:
+  - yes
+pyre_en_sidebar:
+  - yes
+pyre_sidebar_pos:
+  - right
+pyre_youtube:
+  - 
+pyre_vimeo:
+  - 
+pyre_background:
+  - 
+pyre_en_full_screen:
+  - no
+pyre_bg_color:
+  - 
+pyre_bg_repeat:
+  - no-repeat
+pyre_bg_position:
+  - top left
+pyre_bg_attach:
+  - fixed
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
+---
+I decided to write this blog on a common reason otherwise healthy toddlers are often referred to see a pediatric ENT like myself.  While the title of this blog and the question appear simple, getting a clear answer from health care providers, speech language pathologists, teachers, as well as the process of evaluation and then intervention (if necessary) can be complex and not information that is easily accessible by families in my experience.   First, I am really focusing on young toddlers who were born full term, otherwise healthy, without any medical, genetic, or serious health problems. I am talking about that child (often second or third) who seems to not be interested in speaking, and may or may not appear to understand the instructions you are giving or responds when you call him/her.
+
+Referrals to general ENT or pediatric ENT subspecialists like myself may result from a concerned mother who wants to know if their child has something wrong with their ears and/or hearing causing the perceived speech delay, or may be a referral from a concerned pediatrician, and/or from speech language pathologists/therapists from daycare/preschool/school settings.  Even though we always say amongst ourselves that as parents, we should not compare our children, let’s be real.  It is hard not to compare when and how quickly a child achieves motor, speech, and other developmental milestones.  Sure, girls speak much earlier than boys, and talk a great deal more (doesn’t really change as we age). Some children gain some words then stop, and others may simply have way fewer vocabulary compared to his/her peers.  No parents wants to feel like their child appears to be “behind’ the others during playdates, social events, or any other setting.  Worse yet, we as parents never want to hear the daycare/preschool teachers tell us that they may be concerned because our child is “different” in any way, compared to others.
+
+First, we are so lucky that now there is universal newborn hearing screen for all newborns as mandated by law. If a baby was be born with a genetic or non-genetic cause of sensorineural hearing loss, it should be picked up very early after birth through a variety of specialized testing battery, including otoacoustic emission (OAE) and auditory brainstem response (ABR).  Bottom line, if a toddler is not speaking, the first thing to check is to make sure that he/she is actually hearing normally. If you can’t hear clearly, you may not speak clearly.  Babies usually repeat what they hear. Since the risk of acute ear infections, as well as chronic middle ear fluid, occurs in young infants and preschool aged toddlers, it is very important that primary care providers and/or ENT specialists provide an excellent exam as well as hearing screening/testing which can provide absolute confidence that the child whose speech is in question does in fact have normal hearing.
+
+In my office, after getting a history that typically includes normal development of motor skills and other first year milestones, I also get a thorough neonatal history to make sure there was no intrauterine exposure to drugs, or maternal infections during pregnancy, or any other early in life infections which may affect the hearing system. I also make sure the infant/child has not had exposure to drugs with known ototoxicity (damage to the hearing organ), and make sure there are no family history of early onset deafness.  As we continue to gain tremendous knowledge about the genetic basis of hearing loss, it’s always a red flag if there are family members who are in fact deaf early in childhood or life. This is not grandpa or great grandpa who wears hearing aids or need grandma to yell at him at the top of her lungs.
+
+Once I can confirm that the ear exam and hearing test done in our office is completely normal, then the real challenge and discussion begins.  I always ask the caretakers and parents whether the problem is poor enunciation or not enough words, or both. If your child has normal hearing on testing, then the question is whether the child is simply slower in gaining speech but perhaps still within the acceptable range of “normal” or truly has delay in speech.  I have yet to figure out the definition in the state of Florida, but in Kansas and Missouri, to qualify for speech therapy a child has to demonstrate on formal speech evaluation to be at least 50% or greater below what is expected for their age.  Each state has an Early Intervention Program for infants and toddlers , birth to age 3, so for example, Missouri’s program is called **First Steps, ****and Kansas’ program is called ****Infant Toddler Services.  ****These programs serve those birth to age 3 with d**elayed development or diagnosed conditions that are associated with developmental disabilities.  Here in Florida, the early intervention program is called **Early Steps**.
+
+This is what I learned and shared with all parents/caretakers of children with normal hearing but seems delayed in speech development. Basically, nothing substitutes a formal speech evaluation.  Tax dollars pay for assessment and therapy, if the child qualifies, in these early intervention programs for children birth to age 3.  Parents should contact the school district based on where they live and find out what the state-specific early intervention program is called, and contact them to find out how to get their child assessed for whatever developmental delay is in question.  For children age 3 and older, again, by calling the school district parents and caretakers should be directed to procedures for obtaining formal evaluation. Often, what parents of school aged children do not know, is that they MUST go into the school personally, and sign a form requesting that speech evaluation be completed. As soon as a form is completed, and formal assessment requested, from the day the form is turned in generally the school has 90 days to ensure that assessment is completed. The clock does not start until the form is filled out and turned in.   Do not make the mistake of assuming that if your child seems to have difficulty or speech problems the school will automatically test him or her.  Once the testing is completed, based on if the child is delayed, and the program’s criteria for qualifying for speech therapy, then the child may qualify for speech therapy. Most speech therapy is provided in “natural environment”, meaning the therapist may come to your home and provide therapy in your child’s natural environment. Often families may have to make arrangements or pursue private therapy during summer breaks in order to maintain the progress made during the school year.
+
+Another option for formal speech evaluation outside of the state specific early intervention programs is to seek evaluation in medical and academic centers.  Almost all university medical centers or medical campuses will have graduate programs in speech and language pathology and have speech therapist who can provide a full assessment in a medical setting. At any regional children’s hospital, there will likely be a department or division of Audiology (hearing) and Speech who have providers that can evaluate your child.  These providers work very closely with ENT physicians to provide assessment and therapy for your child.
+
+It is always important to have a good relationship and communicate with your child’s preschool and school teachers for the simple reason that in case he/she gets the impression that your child may have speech delay, such concern would be communicated with you so that you may want to get your child assessed. It is possible of course, out of our blinding love for our children that sometimes parents may be in denial about potential developmental delay that their children may have, so feedback from teachers and caretakers may be helpful.
+
+If you have concerns about your child’s hearing and/or speech, first talk to your pediatrician or primary care physician. Often in their offices they can perform a hearing screen, and also refer you to an ENT (general or pediatric ENT) specialist. If everything checks out normal, and your child is found not to have speech delay nor qualify for services, relax and make sure you continue reading to your child daily.       I will always remember that before Claire, I thought the whole baby sign language for normal hearing infants was just a popular fad.  However, we did borrow “[Signing Time][1]” videos from the public library and started having her watch these 30 min shows when she was about 10-11 months of age.  These were amazing! The children on the show use sign language while voicing and singing the words, and after watching the first episode my nonverbal 10 month old was signing “mom: and “dad”.  For the first 2 years of her life, as she acquired much vocabulary in Mandarin, English, and even count in Spanish from 1-10, it was so fun watching her sign at the same time as she was speaking. This demonstrated to me first had that receptive speech is developed much earlier than verbal speech, and that babies have amazing ability to learn sign language and that it may actually help their verbal skills.  I had since recommended this series of video to many moms during office visit. The woman who developed these videos was inspired by her own daughter was born with profound hearing loss, and both of her own children are in the videos.
+
+Now that Claire is 7, she is able to demonstrate her lack of speech delay by asserting herself, arguing with me and talking back.  It’s so fun as we listen to her use new phrases and words. I am thankful that Dave and I always made it a point to read to her every night as our family time, which is not easy in busy lives and busy households. I remind her frequently that she is so lucky she is the only child, allowing us to devote much energy to just her.  Don’t wait to talk to your doctor if you have any concerns about your child, we would all rather be safe than lose valuable time for our precious little ones.  The earlier the intervention, the more likely that he/she will not be behind when they start school.
+
+<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
+
+<p style="height:80px">
+  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
+</p>
+
+\-----
+
+Dr. Julie Wei is a pediatric ear, nose, and throat specialist and the author of [A Healthier Wei][2]. As a mother herself, Dr. Wei is a passionate advocate for improving children's health through better diet and dietary habits. She has been committed to helping parents learn how to eliminate their child's ear, nose, and throat problems simply by reducing excessive sugar and dairy intake, as well as minimizing habitual late night snacking. She hopes to raise awareness for the need for accountability by both medical professionals and parents to ensure that children are not prescribed or take unnecessary medications long term. 
+
+When she is not in the clinic, operating room, or conducting research, you will find her in the kitchen preparing food with love along with her daughter Claire. If you sit next to her on the plane, she will likely share with you information about how to minimize choking hazards in young children, and many other tips for improving your child's health.
+
+ [1]: http://www.signingtime.com/
+ [2]: the-book

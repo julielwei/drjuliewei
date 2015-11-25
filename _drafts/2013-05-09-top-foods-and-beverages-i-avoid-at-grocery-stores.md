@@ -1,0 +1,88 @@
+---
+title: Top Foods and Beverages to Avoid for Children
+author: julie
+layout: post
+permalink: /top-foods-and-beverages-i-avoid-at-grocery-stores/
+sc_chat_opt_show_chatbox:
+  - off
+pyre_show_title:
+  - yes
+pyre_show_featured:
+  - yes
+pyre_en_sidebar:
+  - yes
+pyre_sidebar_pos:
+  - right
+pyre_youtube:
+  - 
+pyre_vimeo:
+  - 
+pyre_background:
+  - 
+pyre_en_full_screen:
+  - no
+pyre_bg_color:
+  - 
+pyre_bg_repeat:
+  - no-repeat
+pyre_bg_position:
+  - top left
+pyre_bg_attach:
+  - fixed
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
+---
+There is nothing like saying “no” to your child, repeatedly, when he/she pleads for certain items at the grocery store, that makes you feel so conflicted as a parent.  As you feel the confidence of being a parent who may be mindful about feeding your child healthy foods, there is that guilt which creeps in as your child eagerly reminds you that many (or all) of the other kids in class have enjoyed these items. I have realized that by refusing to purchase certain foods/beverages, I have given these products a magical “mystique” and quality which makes Claire even more curious.  However, I continue to discuss with her reasons why by reading the nutrition labels together, sharing facts about the reasons why such items are not “healthy”, and then still feel defeated since at the end of the day, a 7-year old really cares about relating to her peers. Here are some common items I consciously do not not purchase during my weekly grocery shopping:
+
+1)Pouched beverages of any kind –juice box, juice drinks, fruit punch, flavored water, juice/soda combination, etc.  About 2 years ago I made a conscious decision to be firm about reducing unnecessary sugar intake as well as practice being more environmentally friendly by not purchasing these products even though they are so convenient and easy to love! Instead, Claire has gotten used to the habit of enjoying her water bottle throughout the day at school. Claire may get a rare package of Horizon organic milk, vanilla flavor, when we travel, and shares with me that at school, she is likely to choose apple juice.
+
+2)Fruits that are prepackaged.  Due to the high sugar content, and the fact that anything with a several months shelf life must have some ingredients which act as a preservative, I will only give her fresh fruits.
+
+3)”Lunchables” – who would have thought that a small package can pack so much not so healthy ingredients for a child! Read the detailed breakdown of what is in a “Lunchable” by Hemi Weingarten in his blog <http://blog.fooducate.com/2009/05/14/inside-the-label-oscar-meyers-lunchables-turkey-cheddar-cracker-stackers/>.  Claire is so intrigued by the idea of making her own “pizza” and has watched other children do so with envy. Instead, our dear friend recently had a casual party in which we all made our own pizzas at home with great fresh ingredients.
+
+4)Chocolate milk – After one taste, Claire too loves chocolate milk, but rarely gets to have it. I honestly have allowed her to drink it perhaps a handful of times in the past year, likely the Silk Chocolate soymilk.  She has at times enjoyed the Horizon organic chocolate milk as well. We do not keep them in the house, and we agreed that she can choose it rarely at school lunches. There is simply too much sugar in chocolate milk! Easily 29 grams per 8oz serving! There have been numerous children who came to see me for recurrent croup, and I have observed that many of them have the habit of drinking chocolate milk throughout the day, and especially at night, even at bedtime. The fermentation of sugar and diary undoubtedly caused reflux and then the spasm of the vocal cords and the body tries to protect itself from drowning in nasty sour stomach contents and bad milk!!! This results in the terrible hacking coughing spells and then the barky cough, even struggling for air or “attack” in the middle of the night. This category includes Yahooz<sup>TM</sup>,  which list of ingredients are as follows:
+
+Ingredients: Water, dairy whey, high fructose corn syrup and/or sugar, non-fat milk, corn syrup solids, cocoa (processed with potassium carbonate), soybean oil (partially hydrogenated), sodium caseinate (protein source), salt, tricalcium phosphate, dipotassium phosphate, xanthum gum, guar gum, mono-and diglycerides, vanillin (an artificial flavor), soy lechitin, calcium ascorbate (vitamin C), natural flavor, vitamin A palmiate, niacinamide (vitamin B3), vitamin D3 and riboflavoin (vitamin B2).
+
+My rule is, if there are ingredients you can’t pronounce and do not know, it’s best to avoid it!
+
+5)Soda. A 20oz of Mountain Dew bottle has 77 grams of sugar! 12oz Coca Cola has 39 gram so sugar, and 20oz bottle has 65 grams of sugar! We do purchase and keep diet coke in the house for parties and entertaining. I am very lucky in that I never drank much soda, and since Dave has not had any soda since college, neither of us have the habit of drinking it. Claire has finally been allowed sprite or diet sprite on occasion when we are eating out or special occasions, but we do not allow her soda day to day.  Find out more about how much sugar are in many beverages at <http://www.sugarstacks.com/beverages.htm>.
+
+6)Cheese sticks! A couple of years ago, I too was purchasing mozzarella cheese sticks for Claire as a snack for school or just for eating at home. Children seem very fond of cheese in any shape, color, or packaging. However, I no longer purchase nor keep them at home, and discourage her from eating them all together.  Last year I found  finding a lonely cheese stick that had been under the car seat for an unclear period of time, and yet my curiosity forced me to open the airtight package….other than being a bit soft and moist, it was still palatable.  This begs the question, if it is not perishable, then one must wonder what is in it that keeps its shelf life, or worse, under the car seat life, so long!  I have met many children who suffer from reflux, and often they consume too much dairy, including several cheese sticks per day, and suffer from constipation as well.  In my opinion, this type of products only “clogs” the plumbing.
+
+7)Sugary Cereals.  Claire is still disappointed with me that I won’t buy her favorite…Fruit Loops. Who can resist those bright colors and frosted sugary tastes!  Almost all cereal has sugar, so I either make granola from scratch, or we enjoy Puffins from the organic isle. I just gave in this month and purchased a box of lucky charms, after feeling incredibly guilty about disappointing my one and only miracle pregnancy child. I am not about the perfect diet, but every day I share with Claire, that life is about making choices, and so is what we put into our mouths and bodies.
+
+At this point, you’re probably wondering what I do buy each week.  While I do purchase a great deal of fresh fruits (apples, oranges, pears, grapes, berries, watermelon, cantaloupe, etc etc, not all at once of course, ) and vegetables (arugula and green salad mixes, fresh broccoli, zucchini, green beans, avocado, tomatoes, sweet potatoes, onion, etc), we definitely are a snack loving family. Here are the not so healthy snacks and items you’ll find in our house:
+
+1)Juices.  Since Dave gave up coffee a few months ago, I do buy Dole pineapple juice or Simply Orange juices so he and Claire both drinks that in the morning, if she is not drinking soy milk.  She carries a water bottle to school every day, and usually has water with dinner.
+
+2)Snacks – anything crunchy! We do love chips, so on and off I will buy Doritos because she loves them. Usually it’s Lays Kettle Cooked Potato Chips, so crunchy! We also love Terra chips (sweet potato, beet, and taro, yum…..). Research actually shows that chewing reduces stress, maybe this is why Dave and I love Wheat Thins since it can make your jaw sore! I do enjoy popcorn, and have had to admit to myself despite trying over 7-8 brands, from fat-free, low-fat, to regular “fat”, that if you’re going to enjoy popcorn, definitely go with what tastes best.  I truly try to not make eating about depravation, or some unrealistic and love-hate guilt-ridden self-imposed torture of an exercise.  I have shared with Claire that by making good choices most of the time, we are fine to enjoy some unhealthy foods some of the time. Oh, you’ll likely find a package of Oreos in our pantry. It’s something that Dave loves, Claire as well, so it’s there.  I must confess, I have a Cheetos addiction, this time clean for the past 4 months. I rarely buy it because I know I will then have a hard time not eating too much of them late at night…..leading to my own terrible reflux symptoms.
+
+3)Cold desserts – I will buy frozen vanilla yogurt, which can be enjoyed on its own or when I make smoothies with fresh strawberries and some soy milk.  We also do from time to time, usually during summer months, buy the “small” Drumstick ice  cream cones.  I do not buy any “freeze pop”, and only popsicles I will buy are the Dole pure fruit popsicles. Again, a rare purchase.
+
+4)Frozen foods – We do have Jack’s frozen pizza at home since Dave works from home and while I cook and generally will have leftovers for him for lunch the next day, this is his rescue if there are no leftovers. We rarely ever buy hotdogs, and I NEVER buy any frozen dinners/entrees.  I do buy some frozen Steamfresh peas, corn, broccoli, in case of emergencies so that we would always have vegetables at the dinner table.
+
+5)Mac n’ Cheese.  I know when I go out of town for meetings, Dave and Claire will enjoy their Mac n’ Cheese.  This certainly motivates me to not travel unless absolutely necessary!!! J
+
+6)Finally, my greatest weakness: spicy Korean ramen. Somehow, especially after a really bad, long day, I allow myself to indulge in this terrible habit of eating this highly processed, too salty, and low nutrition food. The spicy broth burns my throat such that I can’t even swallow more than a couple spoonfuls, and then the terrible reflux lasts for hours.  Perhaps it is by allowing myself to make some seriously bad choices some of the time, that I can be pretty good most of the time. Let’s just hope Claire will not inherit this habit!
+
+Find out how you and your family can eat in “*[A Healthier Wei][1]”*.
+
+&nbsp;
+
+<span style="width:105px;display:table;margin:0 auto;"><a href="http://ahealthierwei.com/the-book/"><img src="http://ahealthierwei.com/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span> 
+
+<p style="height:80px">
+  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="http://ahealthierwei.com/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="http://ahealthierwei.com/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="http://ahealthierwei.com/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="http://ahealthierwei.com/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
+</p>
+
+\-----
+
+Dr. Julie Wei is a pediatric ear, nose, and throat specialist and the author of [A Healthier Wei][2]. As a mother herself, Dr. Wei is a passionate advocate for improving children's health through better diet and dietary habits. She has been committed to helping parents learn how to eliminate their child's ear, nose, and throat problems simply by reducing excessive sugar and dairy intake, as well as minimizing habitual late night snacking. She hopes to raise awareness for the need for accountability by both medical professionals and parents to ensure that children are not prescribed or take unnecessary medications long term. 
+
+When she is not in the clinic, operating room, or conducting research, you will find her in the kitchen preparing food with love along with her daughter Claire. If you sit next to her on the plane, she will likely share with you information about how to minimize choking hazards in young children, and many other tips for improving your child's health.
+
+ [1]: http://ahealthierwei.com/the-book/ "The Book"
+ [2]: http://ahealthierwei.com/the-book
