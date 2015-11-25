@@ -1,6 +1,6 @@
 ---
 title: '&#8220;The Milk and Cookie Disease&#8221; on Everydayhealth.com'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /milk-cookie-disease-everydayhealth-com/
 sc_chat_opt_show_chatbox:

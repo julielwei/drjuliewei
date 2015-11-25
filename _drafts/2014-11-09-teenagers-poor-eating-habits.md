@@ -1,6 +1,6 @@
 ---
 title: Teenagers and Poor Eating Habits!
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /teenagers-poor-eating-habits/
 sc_chat_opt_show_chatbox:

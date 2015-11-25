@@ -1,6 +1,6 @@
 ---
 title: Intentionality
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /intentionality/
 sc_chat_opt_show_chatbox:

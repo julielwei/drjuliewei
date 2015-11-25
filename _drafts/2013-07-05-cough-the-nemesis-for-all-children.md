@@ -1,6 +1,6 @@
 ---
 title: COUGH – The Nemesis for All Children
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /cough-the-nemesis-for-all-children/
 sc_chat_opt_show_chatbox:

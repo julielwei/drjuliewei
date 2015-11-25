@@ -1,6 +1,6 @@
 ---
 title: Does your child have food allergies?
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /does-your-child-have-food-allergies/
 sc_chat_opt_show_chatbox:

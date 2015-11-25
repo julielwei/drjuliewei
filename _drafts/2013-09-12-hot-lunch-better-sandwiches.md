@@ -1,6 +1,6 @@
 ---
 title: Why Hot Lunch is Better Than Sandwiches!
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /hot-lunch-better-sandwiches/
 sc_chat_opt_show_chatbox:

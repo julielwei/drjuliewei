@@ -1,6 +1,6 @@
 ---
 title: Top 3 Reasons Why Your Child Has Runny Nose All the Time
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /top-3-reasons-why-your-child-has-runny-nose-all-the-time/
 sc_chat_opt_show_chatbox:

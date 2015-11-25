@@ -1,6 +1,6 @@
 ---
 title: Changing America – One Truck Stop at a Time
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /changing-america-one-truck-stop-at-a-time/
 sc_chat_opt_show_chatbox:

@@ -1,6 +1,6 @@
 ---
 title: 'Top 4 Reasons Your Child Has a &#8220;Stuffy Nose&#8221;'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /top-4-reasons-child-stuffy-nose/
 sc_chat_opt_show_chatbox:

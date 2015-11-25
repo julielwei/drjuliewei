@@ -1,6 +1,6 @@
 ---
 title: 'Recurrent CROUP &#8211; The Answer May be in What Your Child is Drinking!'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /recurrent-croup-answer-may-child-drinking/
 sc_chat_opt_show_chatbox:

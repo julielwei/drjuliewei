@@ -1,6 +1,6 @@
 ---
 title: The Power of Conversation
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /the-power-of-conversation/
 categories: [Diet]

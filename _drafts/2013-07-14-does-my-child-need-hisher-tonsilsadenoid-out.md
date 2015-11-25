@@ -1,6 +1,6 @@
 ---
 title: Does My Child Need His/Her Tonsils/Adenoid Out?
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /does-my-child-need-hisher-tonsilsadenoid-out/
 sc_chat_opt_show_chatbox:

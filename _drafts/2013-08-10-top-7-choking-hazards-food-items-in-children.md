@@ -1,6 +1,6 @@
 ---
 title: Top 7 Choking Hazards (Food Items) In Children
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /top-7-choking-hazards-food-items-in-children/
 sc_chat_opt_show_chatbox:

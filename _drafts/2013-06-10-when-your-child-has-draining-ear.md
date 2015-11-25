@@ -1,6 +1,6 @@
 ---
 title: 'When Your Child Has  Draining Ear'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /when-your-child-has-draining-ear/
 sc_chat_opt_show_chatbox:

@@ -1,6 +1,6 @@
 ---
 title: Does your child have an ear infection? How do you know and what’s the best treatment?
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /does-your-child-have-an-ear-infection-how-do-you-know-and-whats-the-best-treatment/
 sc_chat_opt_show_chatbox:

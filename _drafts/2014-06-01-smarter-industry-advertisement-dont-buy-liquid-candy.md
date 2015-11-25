@@ -1,6 +1,6 @@
 ---
 title: We Are Smarter Than Industry Advertisement! Don’t Buy “LIQUID CANDY”!
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /smarter-industry-advertisement-dont-buy-liquid-candy/
 sc_chat_opt_show_chatbox:

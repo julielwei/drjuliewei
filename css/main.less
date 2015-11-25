@@ -15,11 +15,21 @@ body {
           font-size: 12pt;
           display: inline-flex;
           padding: 0px 5px;
+
           a {
             padding: 0;
             margin: 0;
             height: auto;
-            color: @text-color !important;
+            color: @text-color;
+
+            &.active {
+              color: #000000;
+            }
+
+            &:hover {
+              color: @brand-primary;
+            }
+
           }
         }
       }
@@ -37,6 +47,13 @@ body {
   .center-block;
   padding: 0px;
   width: 220px;
+}
+
+.social-icon {
+  color: @gray;
+  &:hover {
+    color: @brand-primary;
+  }
 }
 
 form.search {
@@ -100,7 +117,7 @@ ol.articles {
     min-height: 60px;
     min-width: 60px;
     width: 80px;
-    border: 1px gray solid;
+    border: 1px @gray solid;
     margin: 0 5px 0 0;
   }
 
@@ -114,14 +131,39 @@ ol.articles {
   }
 }
 
+.post {
+  margin: 0 2em;
+}
+
 .post-meta {
   font-family: @font-family-sans-serif;
+  font-style: italic;
+  margin-left: 2em;
 }
 
 .post-content {
   font-family: @font-family-sans-serif;
   font-weight: normal;
+  text-indent: 2em;
+  text-align: justify;
+  color: #000000;
 }
+
+.legal {
+  font-family: @font-family-sans-serif;
+  font-size: 8pt;
+  margin: 2em 4em;
+  line-height: 0.8em;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
 
 @media (max-width: @screen-xs-min) {
   .site-nav > nav {
@@ -181,7 +223,7 @@ ol.articles {
       min-height: 50px;
       width: @art-width;
       //min-width: 70px;
-      border: 1px gray solid;
+      border: 1px @gray solid;
       margin: 0 0 5px 0;
       vertical-align: top;
     }
@@ -217,7 +259,7 @@ ol.articles {
 @media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {
   @cat-height: 100px;
   @art-gutter: 10px;
-  @cat-gutter: 15px;
+  @cat-gutter: 30px;
   @cont-margin: 15px;
   @art-cols: 3;
   @cat-cols: 2;
@@ -262,7 +304,7 @@ ol.articles {
       min-height: 50px;
       width: 100%; //border
       //min-width: 70px;
-      border: thin gray solid;
+      border: thin @gray solid;
       margin: 0;
       padding: 0 0 5px 0;
       vertical-align: top;
@@ -315,7 +357,7 @@ ol.articles {
 @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
   @cat-height: 100px;
   @art-gutter: 10px;
-  @cat-gutter: 15px;
+  @cat-gutter: 30px;
   @cont-margin: 15px;
   @art-cols: 3;
   @cat-cols: 2;
@@ -360,7 +402,7 @@ ol.articles {
       min-height: 50px;
       width: 100%; //border
       //min-width: 70px;
-      border: thin gray solid;
+      border: thin @gray solid;
       margin: 0;
       padding: 0 0 5px 0;
       vertical-align: top;
@@ -413,7 +455,7 @@ ol.articles {
 @media (min-width: @screen-lg-min) {
   @cat-height: 100px;
   @art-gutter: 10px;
-  @cat-gutter: 15px;
+  @cat-gutter: 30px;
   @cont-margin: 15px;
   @art-cols: 3;
   @cat-cols: 2;
@@ -458,7 +500,7 @@ ol.articles {
       min-height: 50px;
       width: 100%; //border
       //min-width: 70px;
-      border: thin gray solid;
+      border: thin @gray solid;
       margin: 0;
       padding: 0 0 5px 0;
       vertical-align: top;

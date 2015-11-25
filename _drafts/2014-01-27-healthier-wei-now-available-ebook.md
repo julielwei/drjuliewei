@@ -1,6 +1,6 @@
 ---
 title: A Healthier Wei Now Available as eBook
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /healthier-wei-now-available-ebook/
 sc_chat_opt_show_chatbox:

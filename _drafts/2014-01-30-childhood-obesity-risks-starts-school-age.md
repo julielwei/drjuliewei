@@ -1,6 +1,6 @@
 ---
 title: Childhood Obesity Risks Starts Before School Age!
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /childhood-obesity-risks-starts-school-age/
 sc_chat_opt_show_chatbox:

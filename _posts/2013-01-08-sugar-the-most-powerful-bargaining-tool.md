@@ -1,6 +1,6 @@
 ---
 title: 'Sugar- The Most Powerful Bargaining Tool'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /sugar-the-most-powerful-bargaining-tool/
 categories: [MCD, Diet]

@@ -1,6 +1,6 @@
 ---
 title: Top Foods and Beverages to Avoid for Children
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /top-foods-and-beverages-i-avoid-at-grocery-stores/
 sc_chat_opt_show_chatbox:

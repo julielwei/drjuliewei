@@ -1,6 +1,6 @@
 ---
 title: 'Liberty, Justice and the Pursuit of &#8220;Health&#8221;, the Other “H”: An Unalienable Right!'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /liberty-justice-and-the-pursuit-of-happinehealth-the-other-h-an-unalienable-right/
 sc_chat_opt_show_chatbox:

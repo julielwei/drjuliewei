@@ -1,6 +1,6 @@
 ---
 title: 'Don&#8217;t Let Your Child Skip Breakfast!'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /dont-let-child-skip-breakfast/
 sc_chat_opt_show_chatbox:

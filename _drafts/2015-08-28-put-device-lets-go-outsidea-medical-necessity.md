@@ -1,6 +1,6 @@
 ---
 title: “Put Down Your Device and Let’s Go Outside”……A Medical Necessity
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /put-device-lets-go-outsidea-medical-necessity/
 sc_chat_opt_show_chatbox:

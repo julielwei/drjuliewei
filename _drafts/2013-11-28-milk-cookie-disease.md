@@ -1,6 +1,6 @@
 ---
 title: 'The &#8220;Milk and Cookie Disease&#8221;'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /milk-cookie-disease/
 sc_chat_opt_show_chatbox:

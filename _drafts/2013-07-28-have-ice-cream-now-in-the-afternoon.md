@@ -1,6 +1,6 @@
 ---
 title: Have ice cream now! in the afternoon!
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /have-ice-cream-now-in-the-afternoon/
 sc_chat_opt_show_chatbox:

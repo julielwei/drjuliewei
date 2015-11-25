@@ -1,6 +1,6 @@
 ---
 title: Getting Healthy is a Team Sport!
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /getting-healthy-is-a-team-sport/
 sc_chat_opt_show_chatbox:

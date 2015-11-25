@@ -1,6 +1,6 @@
 ---
 title: Change, Just A New Routine
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /change-just-a-new-routine/
 sc_chat_opt_show_chatbox:

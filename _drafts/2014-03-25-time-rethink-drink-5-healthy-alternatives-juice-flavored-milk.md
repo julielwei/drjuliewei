@@ -1,6 +1,6 @@
 ---
 title: 'It’s time to rethink the drink: 5 Healthy Alternatives to Juice &#038; Flavored Milk'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /time-rethink-drink-5-healthy-alternatives-juice-flavored-milk/
 sc_chat_opt_show_chatbox:

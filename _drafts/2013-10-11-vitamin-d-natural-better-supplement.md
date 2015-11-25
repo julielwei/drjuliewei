@@ -1,6 +1,6 @@
 ---
 title: 'Vitamin D &#8211; Natural is better than supplement'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /vitamin-d-natural-better-supplement/
 sc_chat_opt_show_chatbox:

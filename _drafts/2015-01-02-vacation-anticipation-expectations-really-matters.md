@@ -1,6 +1,6 @@
 ---
 title: Vacation – Anticipation, Expectations, and What Really Matters
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /vacation-anticipation-expectations-really-matters/
 sc_chat_opt_show_chatbox:

@@ -1,6 +1,6 @@
 ---
 title: Metabolic Syndrome and Diabetes – It Might as Well be Cancer…
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /metabolic-syndrome-diabetes-might-well-cancer/
 sc_chat_opt_show_chatbox:

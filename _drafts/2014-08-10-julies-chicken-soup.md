@@ -1,6 +1,6 @@
 ---
 title: 'Julie&#8217;s Chicken Soup'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /julies-chicken-soup/
 sc_chat_opt_show_chatbox:

@@ -1,6 +1,6 @@
 ---
 title: 'Weight Loss Surgery in Children &#8211; This is a Symptom, Not a Solution, for Pediatric Obesity Today'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /weight-loss-surgery-children-symptom-solution-pediatric-obesity-today/
 sc_chat_opt_show_chatbox:

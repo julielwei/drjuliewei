@@ -1,6 +1,6 @@
 ---
 title: 'How to Make Changes Successfully &#8211; Three Steps to A Healthier Child'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /how-to-make-changes-successfully-three-steps-to-a-healthier-child/
 sc_chat_opt_show_chatbox:

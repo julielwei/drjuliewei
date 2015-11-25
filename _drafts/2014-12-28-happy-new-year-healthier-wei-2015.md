@@ -1,6 +1,6 @@
 ---
 title: Happy New Year! A Healthier Wei for 2015
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /happy-new-year-healthier-wei-2015/
 sc_chat_opt_show_chatbox:

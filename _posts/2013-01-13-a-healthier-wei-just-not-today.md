@@ -1,6 +1,6 @@
 ---
 title: “A Healthier Wei, Just Not Today…”
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /a-healthier-wei-just-not-today/
 categories: [Diet]

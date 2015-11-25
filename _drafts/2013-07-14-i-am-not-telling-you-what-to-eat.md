@@ -1,6 +1,6 @@
 ---
 title: I AM NOT TELLING YOU WHAT TO EAT!!!
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /i-am-not-telling-you-what-to-eat/
 sc_chat_opt_show_chatbox:

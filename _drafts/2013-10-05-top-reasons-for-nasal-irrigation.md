@@ -1,6 +1,6 @@
 ---
 title: Top Reasons Your Child Should Try Nasal Irrigation
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /top-reasons-for-nasal-irrigation/
 sc_chat_opt_show_chatbox:

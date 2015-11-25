@@ -1,6 +1,6 @@
 ---
 title: A Better Diet for Kids?
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /fodmap-kids/
 sc_chat_opt_show_chatbox:

@@ -1,6 +1,6 @@
 ---
 title: 'Silken Tofu Smoothies &#038; Yogurt'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /cow-milk-dairy-alternatives-soy-need-know/
 sc_chat_opt_show_chatbox:

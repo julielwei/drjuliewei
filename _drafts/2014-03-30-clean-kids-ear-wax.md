@@ -1,6 +1,6 @@
 ---
 title: 'How Should I Clean My Kid&#8217;s Ear Wax?'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /clean-kids-ear-wax/
 sc_chat_opt_show_chatbox:

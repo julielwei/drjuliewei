@@ -1,6 +1,6 @@
 ---
 title: 'How Much Candy Is Your Child Drinking? [Infographic]'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /much-candy-child-drinking/
 sc_chat_opt_show_chatbox:

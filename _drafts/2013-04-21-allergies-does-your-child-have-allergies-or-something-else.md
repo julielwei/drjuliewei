@@ -1,6 +1,6 @@
 ---
 title: 'ALLERGIES: Does Your Child Have Allergies or Something Else?'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /allergies-does-your-child-have-allergies-or-something-else/
 sc_chat_opt_show_chatbox:

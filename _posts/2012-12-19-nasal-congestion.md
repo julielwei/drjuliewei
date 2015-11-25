@@ -1,6 +1,6 @@
 ---
 title: Nasal Congestion
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /nasal-congestion/
 categories: [MCD, Congestion]

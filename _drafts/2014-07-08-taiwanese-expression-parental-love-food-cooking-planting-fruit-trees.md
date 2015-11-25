@@ -1,6 +1,6 @@
 ---
 title: 'Taiwanese Expression of Parental Love &#8211; Through Food, Cooking, and Planting of Fruit Trees….'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /taiwanese-expression-parental-love-food-cooking-planting-fruit-trees/
 sc_chat_opt_show_chatbox:

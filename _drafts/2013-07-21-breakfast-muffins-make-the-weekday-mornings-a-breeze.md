@@ -1,6 +1,6 @@
 ---
 title: 'Breakfast Muffins &#8211; Make the Weekday Mornings a Breeze&#8230;'
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /breakfast-muffins-make-the-weekday-mornings-a-breeze/
 sc_chat_opt_show_chatbox:

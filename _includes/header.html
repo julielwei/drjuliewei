@@ -7,8 +7,9 @@
           <!-- top-level pages -->
           {% for spage in site.pages %}
           {% if spage.title %}
-          <li class=""{% if page.url == spage.url %}active{%else%} {%endif%}">
-            <a href="{{ spage.url | prepend: site.base-url }}">
+          <li class="{% if page.url == spage.url %}active{%else%} {%endif%}">
+            <a class="{% if page.url == spage.url %}active{%else%} {%endif%}"
+               href="{{ spage.url | prepend: site.base-url }}">
               {{spage.title }}
             </a>
           </li>
@@ -23,30 +24,40 @@
         </form>
 
         <div class="social navbar-right">
-          <span class="fa-stack">
+
+          {% if site.twitter_username %}
+          <a href="#"><span class="fa-stack social-icon">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-          </span>
+          </span></a>
+          {% endif %}
 
-          <span class="fa-stack">
+          {% if site.twitter_facebook_username %}
+          <a href="https://www.facebook.com/dialog/feed?app_id=694165360698061&link=http%3A%2F%2FARTICLE_URL&picture=http%3A%2F%2FIMAGE_URL.JPG&name=TITLE&caption=%20&description=DESCRIPTION&redirect_uri=http%3A%2F%2Fwww.facebook.com%2F"><span class="fa-stack social-icon">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-          </span>
+          </span></a>
+          {% endif %}
 
-          <span class="fa-stack">
+          {% if site.pinterest_username %}
+          <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2FARTICLE_URL&media=http%3A%2F%2FIMAGE_URL&description=DESCRIPTION"><span class="fa-stack social-icon">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
-          </span>
+          </span></a>
+          {% endif %}
 
-          <span class="fa-stack">
+          {% if site.google_username %}
+          <a href="#"><span class="fa-stack social-icon">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-google fa-stack-1x fa-inverse"></i>
-          </span>
+          </span></a>
+          {% endif %}
 
-          <span class="fa-stack">
+          <a href="#"><span class="fa-stack social-icon">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-          </span>
+          </span></a>
+
         </div>
       </div>
     </nav>

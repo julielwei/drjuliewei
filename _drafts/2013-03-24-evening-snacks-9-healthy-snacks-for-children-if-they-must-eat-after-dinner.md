@@ -1,6 +1,6 @@
 ---
 title: 9 Healthy Snacks for Children If They Must Eat After Dinner
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /evening-snacks-9-healthy-snacks-for-children-if-they-must-eat-after-dinner/
 sc_chat_opt_show_chatbox:

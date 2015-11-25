@@ -1,6 +1,6 @@
 ---
 title: One More Bite
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /one-more-bite/
 categories: [MCD, Diet]

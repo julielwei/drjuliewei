@@ -1,6 +1,6 @@
 ---
 title: Acts of Love -Part 2
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /acts-love-part-2/
 sc_chat_opt_show_chatbox:

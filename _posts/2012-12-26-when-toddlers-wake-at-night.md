@@ -1,6 +1,6 @@
 ---
 title: When toddlers wake at night
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /when-toddlers-wake-at-night/
 categories: [MCD, Diet]

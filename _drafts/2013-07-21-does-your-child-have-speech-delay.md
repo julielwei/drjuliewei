@@ -1,6 +1,6 @@
 ---
 title: Does Your Child Have Speech Delay?
-author: julie
+author: Dr. Julie Wei
 layout: post
 permalink: /does-your-child-have-speech-delay/
 sc_chat_opt_show_chatbox:
