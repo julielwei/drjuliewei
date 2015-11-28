@@ -3,7 +3,8 @@ title: One More Bite
 author: Dr. Julie Wei
 layout: post
 permalink: /one-more-bite/
-categories: [MCD, Diet]
+tags: [Blog]
+categories: [Food, Sugar]
 ---
 How often have you said this phrase in your kitchen or at a restaurant during a meal with your child? I know that I can probably count in my two hands the number of meals when I did not use this phrase. Claire is almost 7 years old, and while tall and healthy appearing, she weighs only 41.5 lbs! Those who know me would likely say that it’s no surprise as my Chinese heritage bestowed upon me a fairly petite frame. Yet I remember distinctly how a small judgmental voice often annoyed me from within, when she failed to gain any weight between ages 2 to 4, telling me that I must not be a good mother and have failed my primary duty of simply nourishing my child.
 

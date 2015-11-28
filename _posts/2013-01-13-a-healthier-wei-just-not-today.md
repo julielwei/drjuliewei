@@ -3,7 +3,8 @@ title: “A Healthier Wei, Just Not Today…”
 author: Dr. Julie Wei
 layout: post
 permalink: /a-healthier-wei-just-not-today/
-categories: [Diet]
+tags: [Blog]
+categories: [Family]
 ---
 My younger sister Nancy spent a week visiting us from Oakland and arrived on Christmas Eve. During this wonderful holiday week, as we enjoyed and indulged in many cookies and an overabundance of sugary treats (some I made, others were gifts), Dave sarcastically came up with this slogan, “[A Healthier Wei][1] – Just Not Today”.  I have to admit we all had a good chuckle, but now it’s not as funny anymore. Whenever Claire and I disagree over whether or not she should have another bite of sweets, my little darling looks at me and repeats this phrase with pride! (why do our children know how and where our buttons are!)
 

@@ -2,38 +2,7 @@
 title: Press
 author: A Healthier Wei Administrator
 layout: page
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_title_sec:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-pyre_email:
-  - 
-pyre_gmap:
-  - 
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
-&nbsp;
 
 [<img class="size-medium wp-image-300 alignnone" style="color: #333333; font-style: normal;" title="A Healthier Wei Cover" alt="" src="/wp-content/uploads/2014/04/ahealthierwei_cover-210x3001.jpg" width="210" height="300" />][1]<a href="/wp-content/uploads/2013/02/Wei-photo.jpg" target="_blank"><img class="size-medium wp-image-301 alignnone" title="Dr. Julie Wei" alt="" src="/wp-content/uploads/2014/04/wei-photo-216x3001.jpg" width="216" height="300" /></a>
 

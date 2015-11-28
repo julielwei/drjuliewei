@@ -1,10 +1,8 @@
 <div class="post-nav-container row">
-  {% if page.previous %}
-  <div class="col-xs-6 left"><a rel="prev" href="{{ page.previous.url }}">&lt;
-    {{ page.previous.title }}</a></div>
-  {% endif %}
-  {% if page.next %}
-  <div class="col-xs-6 right"><a rel="next" href="{{ page.next.url }}">{{
-    page.next.title }} &gt;</a></div>
-  {% endif %}
+  <div class="col-xs-6 left">{% if page.previous %}
+  <a rel="prev" href="{{ page.previous.url }}">&lt;
+    {{ page.previous.title }}</a>{% endif %}</div>
+  <div class="col-xs-6 right">{% if page.next %}
+  <a rel="next" href="{{ page.next.url }}">{{
+    page.next.title }} &gt;</a>{% endif %}</div>
 </div>

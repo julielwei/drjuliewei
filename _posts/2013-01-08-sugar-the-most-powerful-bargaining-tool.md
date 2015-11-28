@@ -3,7 +3,8 @@ title: 'Sugar- The Most Powerful Bargaining Tool'
 author: Dr. Julie Wei
 layout: post
 permalink: /sugar-the-most-powerful-bargaining-tool/
-categories: [MCD, Diet]
+tags: [Blog]
+categories: [Sugar, Milk and Cookie Disease]
 ---
 As an adult, I am grateful that my ability to access food and the act of eating are not conditional based on my behavior, achievement,  or doing what others want me to do. Yet, it is so easy for us as parents, to use food (and beverages) as a bargaining tool when it comes to our children and their behavior. Let’s think about this. Is it really fair to use food to either motivate and/or discourage certain behavior?  Or worse yet, to punish our children by denying them what we know they want?  I am going to go ahead and lay this all out in the open.  If we really think about it, there are many reasons why we should reflect and honestly ask ourselves if we are in fact using sugar and other food items to bargain with our children each and every day. If so, what are the consequences this may have in our children as they develop an awareness for how they relate to food and the act of eating?
 

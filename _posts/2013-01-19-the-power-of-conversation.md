@@ -3,7 +3,8 @@ title: The Power of Conversation
 author: Dr. Julie Wei
 layout: post
 permalink: /the-power-of-conversation/
-categories: [Diet]
+categories: [Family]
+tags: [Blog]
 ---
 I never thought that my desire to pursue a career in medicine had anything to do with conversations. I wanted to become a doctor for many reasons. If you read [A Healthier Wei][1], you might guess that losing my mother to breast cancer may be a subconscious factor which drove me to become a physician. Other factors include family and cultural expectations as the medical profession is regarded as perhaps the most prestigious of all professions. Never, did I realize that my career would really boil down to having  conversations. ** **
 

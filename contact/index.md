@@ -1,19 +1,23 @@
 ---
 title: Contact Us
-author: A Healthier Wei Administrator
 layout: page
 ---
-For most inquiries, please contact, <span style="line-height: 1.5em;">please e-mail </span><a style="line-height: 1.5em;" title="customerservice@ahealthierwei.com" href="mailto:customerservice@ahealthierwei.com">customerservice@ahealthierwei.com</a><span style="line-height: 1.5em;">.</span>
 
-For legal, licensing, or other related matters, please e-mail [legal@ahealthierwei.com][1].
+For medical questions, appointments or advice, please make an appointment 
+with Dr. Wei at 
+[Nemours Children's Hospital](http://www.nemours.org/locations/nch.html){:target="_blank"} by 
+calling 407-567-4000.
+
+For book-related inquiries, and speaking events, please 
+e-mail [customer service][4].
+
+For legal, licensing, or other related matters, please e-mail [legal][1].
 
 For all PR inquiries, please email [Laura Pepper Wu.][2]
 
-To book Dr. Wei for speaking events or related inquiries, please complete the following form:
+[ ![Book Cover](/wp-content/uploads/2014/04/AHealthierWei_cover_150.png)][3]
 
-<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
-
-<p style="height:80px">
+<p>
   <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
 </p>
 
@@ -23,6 +27,8 @@ Dr. Julie Wei is a pediatric ear, nose, and throat specialist and the author of 
 
 When she is not in the clinic, operating room, or conducting research, you will find her in the kitchen preparing food with love along with her daughter Claire. If you sit next to her on the plane, she will likely share with you information about how to minimize choking hazards in young children, and many other tips for improving your child's health.
 
- [1]: mailto:legal@ahealthierwei.com "legal@ahealthierwei.com"
+ [1]: mailto:legal@ahealthierwei.com 
  [2]: mailto:laura@30daybooks.com
- [3]: the-book
+ [3]: /book/
+ [4]: mailto:customerservice@ahealthierwei.com 
+ 

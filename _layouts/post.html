@@ -8,8 +8,22 @@ layout: default
     <p class="post-meta">Posted {{ page.date | date: "%b %-d, %Y" }}{% if
       page.author %} by {{ page.author }}{% endif %}{% if page.meta %} • {{
       page.meta }}{% endif %}</p>
+    <p class="post-meta">
+      {% if page.categories.size > 0 %}
+        In categories:
+        {% for cat in page.categories %}
+      <a href="{{site.baseurl}}/{{cat}}">{{cat}}</a>
+        {% endfor %}
+      {% endif %}
+      {% if page.tags.size > 0 %}
+        and tags:
+        {% for tag in page.tags %}
+      <a href="{{site.baseurl}}{{site.tag_baseurl}}{{tag}}">
+        {{tag}}</a>
+        {% endfor %}
+      {% endif %}
+    </p>
   </header>
-
   <article class="post-content">
     {{ content }}
     {% include post_footer.html %}

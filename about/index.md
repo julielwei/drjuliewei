@@ -1,37 +1,7 @@
 ---
-title: Dr. Wei
+title: About
 author: A Healthier Wei Administrator
 layout: page
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_title_sec:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-pyre_email:
-  - 
-pyre_gmap:
-  - 
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
 <img class="alignnone size-medium wp-image-56 alignright" title="My Daughter and I" alt="My Daughter and I" src="/wp-content/uploads/2013/08/biosketch-295x300.jpg" width="295" height="300" />
 

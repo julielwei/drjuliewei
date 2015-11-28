@@ -56,7 +56,7 @@ body {
   }
 }
 
-form.search {
+.search.navbar-form {
   .center-block;
   width: 100%;
   border-style: none;
@@ -65,6 +65,20 @@ form.search {
 
   }
 }
+
+.gsc-search-button {
+  display: none;
+}
+
+//.search.navbar-form {
+//  margin: 0;
+//  width: 17em;
+//  padding: 0;
+//  margin: 0;
+//  input {
+//
+//  }
+//}
 
 .branding {
   width: 100%;
@@ -81,6 +95,11 @@ form.search {
     text-align: right;
     margin: 0;
   }
+}
+
+.home {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .category {
@@ -146,14 +165,14 @@ ol.articles {
   font-weight: normal;
   text-indent: 2em;
   text-align: justify;
-  color: #000000;
+  color: @black;
 }
 
 .legal {
   font-family: @font-family-sans-serif;
   font-size: 8pt;
   margin: 2em 4em;
-  line-height: 0.8em;
+  line-height: 1.2em;
 }
 
 .left {
@@ -164,8 +183,40 @@ ol.articles {
   text-align: right;
 }
 
+.category-list {
+  list-style: none;
+  .category-post {
+    padding-bottom: 2em;
+
+    .image {
+      //display: inline-block;
+      vertical-align: top;
+      max-width: 80px;
+    }
+    .text-container {
+
+      //display: inline-block;
+      .title {
+        //display: inline-block;
+        font-weight: bold;
+        color: @black;
+      }
+      .summary {
+        //display: inline-block;
+        font-size: 10pt;
+        color: @text-color;
+      }
+    }
+  }
+}
 
 @media (max-width: @screen-xs-min) {
+  @screen-width: @screen-xs-min;
+
+  .home {
+    width: @screen-width;
+  }
+
   .site-nav > nav {
     li {
       font-size: 12pt;
@@ -182,6 +233,18 @@ ol.articles {
 
 //480px to 768px - Three across
 @media (min-width: @screen-xs-min) and (max-width: @screen-xs-max) {
+  @screen-width: @screen-xs-min;
+
+  //screen size minus padding left and right on container divided in half
+  @cat-height: 100px;
+  @art-gutter: 10px;
+  @cont-margin: 15px;
+  @cat-width: (@screen-xs-min - (2 * @cont-margin));
+  @art-width: (@cat-width - (2 * @art-gutter)) / 3;
+  .home {
+    width: @screen-width;
+  }
+
   .site-nav {
     nav {
       .container-fluid {
@@ -194,12 +257,6 @@ ol.articles {
     }
   }
 
-  //screen size minus padding left and right on container divided in half
-  @cat-height: 100px;
-  @art-gutter: 10px;
-  @cont-margin: 15px;
-  @cat-width: (@screen-xs-min - (2 * @cont-margin));
-  @art-width: (@cat-width - (2 * @art-gutter)) / 3;
 
   ol.articles {
     .center-block;
@@ -253,10 +310,14 @@ ol.articles {
     }
   }
 
+  .legal {
+    line-height: 1em;
+  }
 }
 
 //768px tp 992px - Two categories across.  Three each
 @media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {
+  @screen-width: @screen-sm-min;
   @cat-height: 100px;
   @art-gutter: 10px;
   @cat-gutter: 30px;
@@ -267,6 +328,9 @@ ol.articles {
   //for two columns
   @cat-width: floor((@screen-sm-min - 5 - 2 * @cont-margin - (@cat-cols - 1) * @cat-gutter) / @cat-cols);
   @art-width: floor((@cat-width - 8 - (@art-cols - 1) * @art-gutter) / @art-cols);
+  .home {
+    width: @screen-width;
+  }
 
   .category {
     display: inline-block;
@@ -279,6 +343,7 @@ ol.articles {
     .title {
     }
   }
+
   //last category in a row
   .category:nth-of-type(even) {
     width: @cat-width;
@@ -316,7 +381,8 @@ ol.articles {
       height: 50px;
     }
   }
-  .article:last-child{
+
+  .article:last-child {
     margin-right: 0;
   }
 
@@ -342,19 +408,25 @@ ol.articles {
     width: 220px;
   }
 
-  form.search {
+  .search {
     margin: 0;
-    width: auto;
+    width: 17em;
+    padding: 0;
+    margin: 0;
     input {
 
     }
   }
 
+  .legal {
+    line-height: 1em;
+  }
 
 }
 
 //93px to 1200px
 @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+  @screen-width: @screen-md-min;
   @cat-height: 100px;
   @art-gutter: 10px;
   @cat-gutter: 30px;
@@ -365,6 +437,9 @@ ol.articles {
   //for two columns
   @cat-width: floor((@screen-md-min - 5 - 2 * @cont-margin - (@cat-cols - 1) * @cat-gutter) / @cat-cols);
   @art-width: floor((@cat-width - 8 - (@art-cols - 1) * @art-gutter) / @art-cols);
+  .home {
+    width: @screen-width;
+  }
 
   .category {
     display: inline-block;
@@ -377,6 +452,7 @@ ol.articles {
     .title {
     }
   }
+
   //last category in a row
   .category:nth-of-type(even) {
     width: @cat-width;
@@ -414,7 +490,8 @@ ol.articles {
       height: 50px;
     }
   }
-  .article:last-child{
+
+  .article:last-child {
     margin-right: 0;
   }
 
@@ -442,27 +519,35 @@ ol.articles {
 
   form.search {
     margin: 0;
-    width: auto;
+    width: 17em;
     input {
 
     }
   }
 
+  .legal {
+    line-height: 1em;
+  }
 
 }
 
 //1200px and greater
 @media (min-width: @screen-lg-min) {
+  @screen-width: @screen-lg-min;
   @cat-height: 100px;
   @art-gutter: 10px;
   @cat-gutter: 30px;
   @cont-margin: 15px;
   @art-cols: 3;
-  @cat-cols: 2;
+  @cat-cols: 3;
   //screen size minus padding left and right on container divided in half
   //for two columns
-  @cat-width: floor((@screen-lg-min - 5 - 2 * @cont-margin - (@cat-cols - 1) * @cat-gutter) / @cat-cols);
+  @cat-width: floor((@screen-lg-min - 10 - 2 * @cont-margin - (@cat-cols - 1) * @cat-gutter) / @cat-cols);
   @art-width: floor((@cat-width - 8 - (@art-cols - 1) * @art-gutter) / @art-cols);
+
+  .home {
+    width: @screen-width;
+  }
 
   .category {
     display: inline-block;
@@ -475,8 +560,9 @@ ol.articles {
     .title {
     }
   }
+
   //last category in a row
-  .category:nth-of-type(even) {
+  .category:nth-of-type(3n) {
     width: @cat-width;
     padding: 0;
   }
@@ -512,7 +598,8 @@ ol.articles {
       height: 50px;
     }
   }
-  .article:last-child{
+
+  .article:last-child {
     margin-right: 0;
   }
 
@@ -538,13 +625,16 @@ ol.articles {
     width: 220px;
   }
 
-  form.search {
+  .search.navbar-form {
     margin: 0;
-    width: auto;
+    width: 17em;
     input {
 
     }
   }
 
+  .legal {
+    line-height: 0.8em;
+  }
 
 }

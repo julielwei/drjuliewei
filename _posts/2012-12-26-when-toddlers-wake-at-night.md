@@ -3,7 +3,9 @@ title: When toddlers wake at night
 author: Dr. Julie Wei
 layout: post
 permalink: /when-toddlers-wake-at-night/
-categories: [MCD, Diet]
+categories: [Milk and Cookie Disease, Food, Cough, Nasal Congestion, Snoring 
+and Sleep]
+tags: [Blog]
 summary: I remind families that once being back asleep, it is truly hazardous to have milk in the tummies of these toddlers and young children. During infancy, that volume consumed was likely only 2-3 ounces per feeding. Once a toddler, that volume increases significantly and the stomach can&#8217;t simply actively pump milk out of it into the intestines. Instead, the warm milk sits around for the next few hours, becoming more sour, and more irritating, and will likely actually decrease quality of the baby&#8217;s sleep.
 ---
 As I always ask the parents and families of young children who come see me

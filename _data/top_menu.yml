@@ -1,0 +1,16 @@
+# add pages with title and url
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+
+- title: The Book
+  url: /book/
+
+- title: Press
+  url: /press/
+
+- title: Contact Us
+  url: /contact/
