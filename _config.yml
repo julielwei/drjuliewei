@@ -19,5 +19,8 @@ facebook_username: ahealthierwei
 google_username: ahealthierwei
 github_username:  julielwei
 
+highlighter: pygments
+github: https://github.com/julielwei/julielwei.github.io.git
+
 # Build settings
 markdown: kramdown
