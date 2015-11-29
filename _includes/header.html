@@ -45,7 +45,8 @@
             {% for tag in site.tags %}
             <li><a href="{{site.baseurl}}{{site.tag_baseurl}}{{tag[0]}}">
               {{tag[0] | capitalize }}
-            </a></li>{% endfor %}
+            </a></li>
+            {% endfor %}
             <!-- end: post tag-->
           </ul>
         </div>
