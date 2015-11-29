@@ -2,6 +2,8 @@
 title: Childhood Obesity Risks Starts Before School Age!
 author: Dr. Julie Wei
 layout: post
+categories: [undefined]
+tags: [blog]
 permalink: /childhood-obesity-risks-starts-school-age/
 ---
 A new [study][1] from Emory was published in the New England Journal of Medicine recently which showed almost** half of children who are obese by eighth grade were already overweight by kindergarten!** This federally funded study followed a nationwide sample of more than 7,700 children through grade school years.  When children started started kindergarten, 12 percent were obese and 15 percent were overweight. By eighth grade, 21 percent were now obese and 17 percent were overweight.  What was just as informative was that the also looked at 6,807 children who were not obese when the study started, at the time they entered kindergarten. Key findings:

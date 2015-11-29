@@ -2,6 +2,8 @@
 title: COUGH – The Nemesis for All Children
 author: Dr. Julie Wei
 layout: post
+categories: [undefined]
+tags: [blog]
 permalink: /cough-the-nemesis-for-all-children/
 ---
 I feel rather embarrassed and incredibly frustrated to be a pediatric ear, nose, and throat specialist whose child, spouse, and dog are all currently having ENT issues!. Claire can’t seem to stop coughing the past 2 weeks, Dave has been complaining of a sore throat, and Shiro the dog has a swimmer&#8217;s ear with awful bad odor coming from  his ears! I am sure Shiro got swimmer&#8217;s ear from having his ears so wet from playing in the wading pool at doggie day care ( a luxury in Orlando)!  Claire has been healthy for over 8 months, but about 10 days ago caught some type of viral illness, as she had high fevers for 2 days, followed by runny nose for 3 and a wet cough.  Things were better about a week after it started, when for the past 48 hours she has been coughing excessively whenever she lays down to sleep or first thing when she wakes. The last 2 nights she has woken up from the cough, and proceeds to come into our room, climb into our bed, and then after 3 minutes of hearing her ever-so-annoying cough which was going to keep all of us up I reluctantly climbed out of bed, walked her back into her room, and prayed that she would be able to fall back asleep.

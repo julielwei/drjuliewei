@@ -2,6 +2,8 @@
 title: 'Ham &#038; cheese or PB&#038;J….again?   by Nancy Wei, MPH, RD &#8211; Guest Blog'
 author: Dr. Julie Wei
 layout: post
+categories: [undefined]
+tags: [blog]
 permalink: /ham-cheese-or-pbj-again-by-nancy-wei-mph-rd-guest-blog/
 ---
 <div style="width: 310px" class="wp-caption alignright">

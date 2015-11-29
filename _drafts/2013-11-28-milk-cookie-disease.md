@@ -2,6 +2,8 @@
 title: 'The &#8220;Milk and Cookie Disease&#8221;'
 author: Dr. Julie Wei
 layout: post
+categories: [undefined]
+tags: [blog]
 permalink: /milk-cookie-disease/
 ---
 <img class="alignleft size-thumbnail wp-image-879" alt="Julie_MCD" src="/wp-content/uploads/2013/11/Julie_MCD1-112x150.jpeg" width="112" height="150" />

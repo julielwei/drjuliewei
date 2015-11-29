@@ -2,6 +2,8 @@
 title: Have ice cream now! in the afternoon!
 author: Dr. Julie Wei
 layout: post
+categories: [undefined]
+tags: [blog]
 permalink: /have-ice-cream-now-in-the-afternoon/
 ---
 <img class="alignleft size-thumbnail wp-image-602" alt="photo" src="/wp-content/uploads/2013/08/photo1-150x150.jpg" width="150" height="150" />

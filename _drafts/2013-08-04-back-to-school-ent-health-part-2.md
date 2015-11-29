@@ -2,6 +2,8 @@
 title: 'Back to School ENT Health &#8211; Part 2'
 author: Dr. Julie Wei
 layout: post
+categories: [undefined]
+tags: [blog]
 permalink: /back-to-school-ent-health-part-2/
 ---
 Okay, counting down. Claire has meet and greet this Friday, and first day of school is Aug 15<sup>th</sup> !  I am always conflicted this time of the year, happy that she will start school and that we’ll get back into a routine, but also anxious because we have to get back into a routine.

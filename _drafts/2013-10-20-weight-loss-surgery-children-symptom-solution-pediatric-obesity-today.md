@@ -2,6 +2,8 @@
 title: 'Weight Loss Surgery in Children &#8211; This is a Symptom, Not a Solution, for Pediatric Obesity Today'
 author: Dr. Julie Wei
 layout: post
+categories: [undefined]
+tags: [blog]
 permalink: /weight-loss-surgery-children-symptom-solution-pediatric-obesity-today/
 ---
 <img class="alignleft size-thumbnail wp-image-848" alt="Roux-en-Y_gastric_bypass" src="/wp-content/uploads/2013/10/Roux-en-Y_gastric_bypass-150x141.png" width="150" height="141" />

@@ -2,6 +2,8 @@
 title: Getting Healthy is a Team Sport – Part 2
 author: Dr. Julie Wei
 layout: post
+categories: [undefined]
+tags: [blog]
 permalink: /getting-healthy-is-a-team-sport-part-2/
 ---
 As I reflect on our new life, my new job as the Division Chief of Otolaryngology (Ear, Nose, and Throat) at a children’s hospital, and the task ahead of me to become visible and useful as a physician and surgeon in Orlando and Central Florida, there is no doubt this has been one of if not the most humbling experience I have ever had.  After spending 10 years  in Kansas City serving referral physicians, children, and their families from both Kansas and Missouri state, I had finally been blessed to have built an incredibly busy practice taking care of not only otherwise very healthy children who had fairly easy to treat ENT problems, but also had the opportunity to care for children with breathing and swallowing issues who also had the most complex of medical conditions including genetic disorders and other problems that require long term support like that of tracheostomy for breathing and gastrostomy tube for feeding. In hindsight, what I was not taught in medical school, or even residency and fellowship training, was the importance of developing a strong network of specialists and other health providers in order to take care of a child, the entire child.

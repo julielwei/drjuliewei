@@ -2,6 +2,8 @@
 title: 'Julie&#8217;s Chicken Soup'
 author: Dr. Julie Wei
 layout: post
+categories: [undefined]
+tags: [blog]
 permalink: /julies-chicken-soup/
 ---
 Ingredients:

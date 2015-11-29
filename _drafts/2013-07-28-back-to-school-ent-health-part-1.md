@@ -2,6 +2,8 @@
 title: 'Back to School ENT Health &#8211; Part 1'
 author: Dr. Julie Wei
 layout: post
+categories: [undefined]
+tags: [blog]
 permalink: /back-to-school-ent-health-part-1/
 ---
 <div style="width: 310px" class="wp-caption alignright">
