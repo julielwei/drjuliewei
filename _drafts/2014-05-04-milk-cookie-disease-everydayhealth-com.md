@@ -3,36 +3,6 @@ title: '&#8220;The Milk and Cookie Disease&#8221; on Everydayhealth.com'
 author: Dr. Julie Wei
 layout: post
 permalink: /milk-cookie-disease-everydayhealth-com/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
 <img class="alignleft size-medium wp-image-1047" alt="" src="/wp-content/uploads/2014/05/IMG_0448-300x225.jpg" width="300" height="225" />I am grateful to[ Everyday Health][1] for having me as a Guest Columnist, helping to increase awareness of [MCD][2] and the[ serious epidemic facing all of our children today][3].  As you read the [article][4], I hope you too will  believe as I do, that no matter how slow or difficult it is to make change, together we can make a difference. There are so many great websites, foundations, platforms, programs, and initiatives that are already fighting for better health for children,  and behind all of them are individuals who believe in the power of education, inspiration, and[ making positive changes][5].
 

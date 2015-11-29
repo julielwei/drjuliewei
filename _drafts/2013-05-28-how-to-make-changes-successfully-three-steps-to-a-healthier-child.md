@@ -3,36 +3,6 @@ title: 'How to Make Changes Successfully &#8211; Three Steps to A Healthier Chil
 author: Dr. Julie Wei
 layout: post
 permalink: /how-to-make-changes-successfully-three-steps-to-a-healthier-child/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 Today was an emotional day. After making the decision to accept the job offer to become the Division Chief of Pediatric Otolaryngology at a children&#8217;s hospital back in February, the day has come that all of our belongings (except what is going with us in the car) are being loaded onto the moving truck. I asked them to leave me one chair until the end of the day so that I can put on paper some observations and reflections I have made in the past few days.  Life is constantly changing, but on a personal level we make decisions that determine the outcome affecting our jobs, health, happiness, quality of our marriage, and of course everything related to the lives of our children.
 

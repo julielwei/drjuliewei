@@ -3,36 +3,6 @@ title: Changing America – One Truck Stop at a Time
 author: Dr. Julie Wei
 layout: post
 permalink: /changing-america-one-truck-stop-at-a-time/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 We left Kansas City May 30<sup>th. </sup>.  We picked Claire up from her last day of school, put our dog Shiro and everything that we can fit into the Acura MDX, and off we drive to Orlando and the “Sunshine State”.  Two days, 21 hours, and 7 states later, we arrived.  While filling the tank at a gas station in Gainesville on the second evening, I was mesmerized by the warm Florida breeze, palm trees, and clouds that seem as though you can reach up and grab them by the handful.  But before that moment, Dave and I had many hours during the drive to solve the U.S. Healthcare Crisis.<img class="alignleft  wp-image-481" alt="IMG_0495" src="/wp-content/uploads/2013/08/IMG_0495-300x225.jpg" width="240" height="180" />
 

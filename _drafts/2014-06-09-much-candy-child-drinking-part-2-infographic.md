@@ -3,36 +3,6 @@ title: 'How Much Candy is Your Child Drinking? Part 2 [Infographic]'
 author: Dr. Julie Wei
 layout: post
 permalink: /much-candy-child-drinking-part-2-infographic/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
 [  
 <img class="aligncenter size-medium wp-image-1078" style="width: 100%; max-width: 610px;" src="/wp-content/uploads/2014/06/Info-Final.png" alt="How Much Candy is Your Child Drinking? Part 2" />

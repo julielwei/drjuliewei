@@ -3,36 +3,6 @@ title: 'Silken Tofu Smoothies &#038; Yogurt'
 author: Dr. Julie Wei
 layout: post
 permalink: /cow-milk-dairy-alternatives-soy-need-know/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
 <img class="alignleft size-medium wp-image-1057" src="/wp-content/uploads/2014/05/silken-tofu-300x221.jpg" alt="silken tofu" width="300" height="221" />Growing up in Taiwan, [tofu][1], soymilk, and other soy products were a part of my diet as it is in many Asian countries. While one may think it&#8217;s the equivalent of western cow milk and dairy products, Asians do not consume as much soy as what Westerners consume in dairy.   I drank some soy milk, some peanut milk, rice milk,  but as a toddler and child I am certain I didn&#8217;t drink 28 or > 34 ounces in a day of soymilk or any other liquid.  This is often what parents tell me how much a 2-3 year old may be drinking in a day!!!!
 

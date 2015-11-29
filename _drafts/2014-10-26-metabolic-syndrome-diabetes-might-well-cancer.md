@@ -3,36 +3,6 @@ title: Metabolic Syndrome and Diabetes – It Might as Well be Cancer…
 author: Dr. Julie Wei
 layout: post
 permalink: /metabolic-syndrome-diabetes-might-well-cancer/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
 <img class="alignleft  wp-image-1071" src="/wp-content/uploads/2014/10/img_2101-300x300.jpg" alt="IMG_2101" width="193" height="193" />Since our move to Orlando last June, I have had to tell 5 families that their child has “cancer”. There is absolutely nothing worse than to tell parents that their child has a diagnosis of malignancy, regardless of what type, the medical and scientific characteristics of the particular type of cancer, and or the prognosis. What a parents hears, is that their child’s life is in grave danger and in fact the life we all take for granted is in fact not guaranteed.  This past week I had to tell another family such horrific news after surgically removing a large tumor from the neck of an amazing child who did not deserve such a diagnosis.
 

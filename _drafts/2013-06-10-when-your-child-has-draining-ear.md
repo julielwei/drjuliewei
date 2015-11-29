@@ -3,36 +3,6 @@ title: 'When Your Child Has  Draining Ear'
 author: Dr. Julie Wei
 layout: post
 permalink: /when-your-child-has-draining-ear/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 One of the most common and simple procedures that Otolaryngologists (ear, nose, and throat specialists) perform is that of putting “tubes” in children’s years. General and pediatric otolaryngologists alike perform thousands of these simple and quick procedures every year, often several times in a single hour! Most children who need and get “tubes” in their ears are toddlers and those in preschool age. What continues to surprise me is how often parents and caretakers are not explained to clearly about what to do once a child has ear tubes in and then develop a wet or draining ear. Yes, I am talking about yellow, green, white, brown, stinky (the smell can fill up a room!), sticky, nasty stuff that not only runs out your child’s ear canal, but then crusts around their ears and worse, perhaps down their cute cheeks!
 

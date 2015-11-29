@@ -3,36 +3,6 @@ title: 'How Much Candy Is Your Child Drinking? [Infographic]'
 author: Dr. Julie Wei
 layout: post
 permalink: /much-candy-child-drinking/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
 [<img class=" wp-image-1002  " alt="How Much Candy is Your Child Drinking?" src="/wp-content/uploads/2014/06/candy_b01-1.png" style="width: 100%; max-width: 610px;" />][1]
 Designed by Ryoko Iwata.

@@ -3,36 +3,6 @@ title: Happy New Year! A Healthier Wei for 2015
 author: Dr. Julie Wei
 layout: post
 permalink: /happy-new-year-healthier-wei-2015/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
 <img class="alignleft wp-image-1145 size-medium" style="padding-right: 20px;" src="/wp-content/uploads/2014/12/IMG_3580-copy-225x300.jpg" alt="IMG_3580 copy" width="225" height="300" />How many times have you thought about “New Year’s Resolutions” every December after a wonderful season of indulgence, great parties, celebrations of love with family and friends? I know I have the same conversation with myself year after year. Actually, to be precise, there is a quiet voice speaking to me in the background, reminding me that what I must resolve to do for the newyear is the following:
 

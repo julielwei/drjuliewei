@@ -3,36 +3,6 @@ title: A Healthier Wei Now Available as eBook
 author: Dr. Julie Wei
 layout: post
 permalink: /healthier-wei-now-available-ebook/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
 I am happy to announce that the eBook version of [&#8220;A Healthier Wei&#8221;][1] is  now available on Amazon bookstore for  <a title="Kindle" href="http://www.amazon.com/dp/B00I124D3Y" target="_blank">Kindle</a>, the [Nook ][2]bookstore, and the iBookstore for iOs and Mac ( I will update this post with link as soon as available).
 

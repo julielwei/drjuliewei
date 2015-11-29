@@ -3,36 +3,6 @@ title: 'Back to School ENT Health &#8211; Part 1'
 author: Dr. Julie Wei
 layout: post
 permalink: /back-to-school-ent-health-part-1/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 <div style="width: 310px" class="wp-caption alignright">
   <a href="http://commons.wikipedia.org/wiki/File:Mono_tonsils.JPG" target="_blank"><img class="zemanta-img-inserted zemanta-img-configured" title="swollen tonsils." alt="swollen tonsils." src="/wp-content/uploads/2013/08/300px-Mono_tonsils.jpg" width="300" height="225" /></a>

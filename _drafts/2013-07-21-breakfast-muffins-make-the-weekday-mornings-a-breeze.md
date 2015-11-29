@@ -3,36 +3,6 @@ title: 'Breakfast Muffins &#8211; Make the Weekday Mornings a Breeze&#8230;'
 author: Dr. Julie Wei
 layout: post
 permalink: /breakfast-muffins-make-the-weekday-mornings-a-breeze/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 [<img class="alignleft size-thumbnail wp-image-573" alt="2013-07-21 16.19.11_sm" src="/wp-content/uploads/2013/08/2013-07-21-16.19.11_sm-150x150.jpg" width="150" height="150" />][1]I decided to make a variation of “[A Healthier Wei][2]” breakfast muffins today after being inspired by Nancy, who always calls me after she makes a new type of muffin using our basic recipe.  She made a “sweet potatoe pistachio” variation, which I would have tried had I had any luck finding canned sweet potato in the grocery store that was not drowning in high fructose corn syrup or in some pineapple orange syrup.  So instead, my batch today is “Pumpkin Carrot”, and while it’s in the oven on this gorgeous Orlando Sunday afternoon I thought I’d share the recipe with you.  Start with the base as described below, then add whatever you want which will equate to about 2 cups of mashed fruit or vegetables, and you can come up with most variations which I hope someday to assemble in “A Healthier Wei Cookbook” for you. In our book “[A Healthier Wei][2]”, there are 2 recipes for muffins: one that is banana chocolate chip and the other is dark chocolate cherry.  There was a typo as I never use all purpose flour  but instead use whole wheat flour when making these nutricious and delicious muffins.
 
@@ -78,7 +48,7 @@ Use 2 cups of canned sweet potatoe and ½ cup of chopped pistachios
 
 2 cups of Libby’s canned pumpkin
 
-1cup of shredded carrots
+1 cup of shredded carrots
 
 ½ cup raisins (optional)
 

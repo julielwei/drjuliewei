@@ -3,36 +3,6 @@ title: 'Liberty, Justice and the Pursuit of &#8220;Health&#8221;, the Other “H
 author: Dr. Julie Wei
 layout: post
 permalink: /liberty-justice-and-the-pursuit-of-happinehealth-the-other-h-an-unalienable-right/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 [<img class="alignleft size-medium wp-image-517" alt="photo" src="/wp-content/uploads/2013/08/photo-300x225.jpg" width="300" height="225" />][1]Yesterday was a gorgeous day in Orlando. I got up at ten after six and took a one-hour walk with the dog, gently embraced by the clear blue skies with a few rare pinkish clouds as the sun climbed lazily up the horizon.  The dog would rather run, but I am not as motivated so fast walking was just as good in my opinion.  As we greeted a few deer, large crane, squirrel, and other critters in our neighborhood, I had a chance to clear my mind and reflect on this great holiday.  Had our forefathers been able to foresee the plight the health of both ours and our children’s generation, I suspect Thomas Jefferson, John Adams, and the rest of the committee may have revised the Declaration of Independence to state that unalienable rights to include Life, Liberty, and the pursuit of Happiness and “Health”.  While happiness may mean different things to different people, and we all define happiness and contentment differently based on our culture, background, family and relationships, and the realities of our lives, I am fairly confident that without “Health” for ourselves and that of our loved ones, very few of us could truly be “happy”.
 

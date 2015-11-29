@@ -3,36 +3,6 @@ title: 'Top 4 Reasons Your Child Has a &#8220;Stuffy Nose&#8221;'
 author: Dr. Julie Wei
 layout: post
 permalink: /top-4-reasons-child-stuffy-nose/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
 Every day in clinic, I meet children whose parents tell me that they have chronic &#8220;stuffy nose&#8221;, most of them have already been on months of nasal steroid spray (like Flonase) and antihistamines (like zyrtec or claritin and generic equivalents) but still not better. Most parents tell me that the child sounds like they have a cold, but this is daily and lasts for months! For school aged children, even if they asked the child to &#8220;blow&#8221; their nose, nothing seems to come out. Often the children become daily mouthbreathers because their noses &#8220;don&#8217;t work&#8221;.  So what is wrong and how can we treat it? First, when we talk about &#8220;stuffy nose&#8221;, what is really going on is that the mucous membrane or lining inside our nasal passages, specifically those covering the[ turbinates][1], get engorged and so there is decreased room for air to flow through the nasal passages.
 

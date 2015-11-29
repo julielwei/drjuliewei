@@ -3,36 +3,6 @@ title: 'Vitamin D &#8211; Natural is better than supplement'
 author: Dr. Julie Wei
 layout: post
 permalink: /vitamin-d-natural-better-supplement/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
 <img class="alignleft size-thumbnail wp-image-835" alt="vitamin D" src="/wp-content/uploads/2013/10/vitamin-D-150x150.jpg" width="150" height="150" />One of the headlines in the[ Daily Mail Health][1] section reported that a study in Lancet showed women who took vitamin D supplements did not show increase in bone density.  This is surprising after women have been told for years that they need to take vitamin D since they are more prone to osteoporosis (thinning of bones making it more likely to break or fracture).  Scientists, researchers, and doctors now know that vitamin D does so much more than just help prevent bone diseases, like rickets and osteomalacia  which were classic disease from vitamin D deficiency. Vitamin D essentially helps our bodies absorb calcium so that we would then have strong bones. IN humans there are two important forms, ergocalciferol (vitamin D2) which is made by plants,  and cholecalciferol (vitamin D3) which is made actually by human skin when it is exposed to ultraviolet B (UVB) rays from sunlight. in our diet, vitamin D can be naturally found in fish, eggs, fortified milk, and cod liver oil which I am certain very few people eat any more.  Foods which are processed, including cow&#8217;s milk and soymilk,  may be fortified with vitamin D2 or D3. Recent research shows that vitamin D actually also protects against high blood pressure, cancer, and many autoimmune diseases.
 

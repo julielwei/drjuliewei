@@ -3,36 +3,6 @@ title: 'Ham &#038; cheese or PB&#038;J….again?   by Nancy Wei, MPH, RD &#8211;
 author: Dr. Julie Wei
 layout: post
 permalink: /ham-cheese-or-pbj-again-by-nancy-wei-mph-rd-guest-blog/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 <div style="width: 310px" class="wp-caption alignright">
   <a href="http://commons.wikipedia.org/wiki/File:Peanut-Butter-Jelly-Sandwich.jpg" target="_blank"><img class="zemanta-img-inserted zemanta-img-configured" title="English: A peanut butter and jelly sandwich, m..." alt="English: A peanut butter and jelly sandwich, m..." src="/wp-content/uploads/2013/08/300px-Peanut-Butter-Jelly-Sandwich.jpg" width="300" height="170" /></a>

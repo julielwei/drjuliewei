@@ -3,36 +3,6 @@ title: “Put Down Your Device and Let’s Go Outside”……A Medical Necessit
 author: Dr. Julie Wei
 layout: post
 permalink: /put-device-lets-go-outsidea-medical-necessity/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
 Each day in clinic, I walk into the exam room and greet parents and new patients, nearly all children are engaged on the parent’s phone or their own electronic device. When I see a toddler who can’t even speak a fluent sentence but nevertheless can demand and reach for a device, swipe effortlessly, or protest when one is taken away, I am saddened by the reality of my own child’s generation.
 

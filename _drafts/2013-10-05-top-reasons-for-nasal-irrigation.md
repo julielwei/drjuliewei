@@ -3,36 +3,6 @@ title: Top Reasons Your Child Should Try Nasal Irrigation
 author: Dr. Julie Wei
 layout: post
 permalink: /top-reasons-for-nasal-irrigation/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 <img class="alignleft  wp-image-827" alt="neilmed-sinus-rinse" src="/wp-content/uploads/2013/10/neilmed-sinus-rinse-238x300.jpg" width="143" height="180" />I spent this week in Vancouver, British Columbia attending our annual [American Academy of Otolaryngology Head and Neck Surgery][1] meeting, where ENT specialists from the US and all over the globe come together to share their research results, clinical experience, as well as cutting edge ideas about how to help patients in every aspect of ENT diseases. While I am an ENT who specializes in treating children and am often interacting with colleagues who do what I do, I appreciate the opportunity at every one of these gatherings to meet new colleagues and gain tremendous new information about how to be better equipped to treat my patients.
 

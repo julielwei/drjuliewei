@@ -3,36 +3,6 @@ title: 'Recurrent CROUP &#8211; The Answer May be in What Your Child is Drinking
 author: Dr. Julie Wei
 layout: post
 permalink: /recurrent-croup-answer-may-child-drinking/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
 <pre><span style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 14px; line-height: 1.5em;"><img class="alignleft size-medium wp-image-969" alt="IMG_1211_blurred" src="/wp-content/uploads/2014/02/IMG_1211_blurred-225x300.jpg" width="225" height="300" />Since my arrival to Central Florida last June, I have seen many preschool and school aged children with recurrent </span><a style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 14px; line-height: 1.5em;" href="http://kidshealth.org/parent/infections/lung/croup.html">"croup"</a><span style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 14px; line-height: 1.5em;">. These are children who are usually otherwise completely healthy, but has "episodes" or attacks where they have trouble breathing, have harsh "barky" cough, and are frequent flyers to the Emergency Room especially in the middle of the night.  I have several in recent months who have not only logged over 8-10 visits to the Emergency Department in a 6 month period, but have even been hospitalized for this condition.  These children are usually given the diagnosis of "croup", given steroids in the ED, then discharged home with their own bottle of steroid that mom keeps in the fridge.</span></pre>
 

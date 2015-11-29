@@ -3,36 +3,6 @@ title: 'Back to School ENT Health &#8211; Part 2'
 author: Dr. Julie Wei
 layout: post
 permalink: /back-to-school-ent-health-part-2/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 Okay, counting down. Claire has meet and greet this Friday, and first day of school is Aug 15<sup>th</sup> !  I am always conflicted this time of the year, happy that she will start school and that we’ll get back into a routine, but also anxious because we have to get back into a routine.
 

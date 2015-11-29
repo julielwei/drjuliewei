@@ -3,36 +3,6 @@ title: Intentionality
 author: Dr. Julie Wei
 layout: post
 permalink: /intentionality/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 This past week was very challenging. Claire has been ill with fever, runny nose, croupy cough, nasal congestion, headache, and just feeling crummy. I am sure she had a bad cold, but what did not help her was my overscheduled week especially with a presentation and book event at Whole Foods Market on Wednesday night. My heart was overflowing with pride and love when I watch her offer to sign some of the books, even in “cursive”. Thursday night I rushed to make a pot of chicken soup from scratch, and make “stroganoff” which Claire asked for, so that they would not just eat out this weekend since I was going out of town to attend a scientific meeting. After that, I had to finish preparing for my presentation as well as packed for my travel to Scottsdale.  Friday I finished 15 surgeries and then caught a flight to Phoenix for the meeting. Despite feeling guilty for leaving a sick child at home, and exhausted just to get here, I can always count on the gift of unexpected conversation with someone that will inspire me.
 

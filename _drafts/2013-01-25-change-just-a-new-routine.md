@@ -3,36 +3,6 @@ title: Change, Just A New Routine
 author: Dr. Julie Wei
 layout: post
 permalink: /change-just-a-new-routine/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 Every time I counsel families to make diet and dietary habit changes in their children, we openly discuss their natural skepticism that changing a child’s routine and habit is possible. The immediate assumption and reaction is often one of skepticism, especially for the toddlers whom I am asking the parents to take away the bedtime milk. I have learned from a variety of reactions and the conversations that follow and want to share them with you.
 

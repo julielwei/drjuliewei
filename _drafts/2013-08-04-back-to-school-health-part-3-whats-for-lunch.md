@@ -3,36 +3,6 @@ title: 'Back to School Health &#8211; Part 3 &#8211; What&#8217;s for Lunch?'
 author: Dr. Julie Wei
 layout: post
 permalink: /back-to-school-health-part-3-whats-for-lunch/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 <div style="width: 250px" class="wp-caption alignright">
   <a href="http://www.flickr.com/photos/49503003192@N01/7282266962" target="_blank"><img class="zemanta-img-inserted zemanta-img-configured" title="School lunch #1" alt="School lunch #1" src="/wp-content/uploads/2013/08/7282266962_cfc4551cf5_m1.jpg" width="240" height="240" /></a>

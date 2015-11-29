@@ -3,36 +3,6 @@ title: Top 3 Reasons Why Your Child Has Runny Nose All the Time
 author: Dr. Julie Wei
 layout: post
 permalink: /top-3-reasons-why-your-child-has-runny-nose-all-the-time/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 Are you constantly running after your child with Kleenex<sup>TM </sup>? Does your child seem to have a “cold” that never clears? Does your child have sore nostrils from constant wiping, shirt sleeves that you want to wash on “sanitary cycle”, and  crusty material around his/her cute cheeks that is not so “cute”? As an ear, nose, and throat specialist, I am always advocating for what I consider to be the perhaps most under appreciated organ in our body, the nose. No matter how big or small, we all need the nose to work properly to breathe, smell, humidify the air, and smell is responsible for 2/3 of our perceived taste. In addition, our sense of smell let us know if we are exposed to potential dangers such as a fire or exposure to chemicals. Finally, as an Asian woman with a not-so-prominent nasal bridge, I can tell you how useful our noses are to hold up our glasses and sunglasses! For all that it is responsible for, in our children with their small noses, anytime it is runny with snot, many of these functions are impaired.<img class="zemanta-img-inserted zemanta-img-configured alignright" title="English: A small box of Kleenex." alt="English: A small box of Kleenex." src="/wp-content/uploads/2013/08/300px-Kleenex-small-box.jpg" width="180" height="230" />
 

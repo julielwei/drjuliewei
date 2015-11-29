@@ -3,36 +3,6 @@ title: Have ice cream now! in the afternoon!
 author: Dr. Julie Wei
 layout: post
 permalink: /have-ice-cream-now-in-the-afternoon/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
 ---
 <img class="alignleft size-thumbnail wp-image-602" alt="photo" src="/wp-content/uploads/2013/08/photo1-150x150.jpg" width="150" height="150" />
 
@@ -49,8 +19,6 @@ One pre-made Oreo Cookie Pie Crust
 1 container of Cool Whip
 
 Let ice cream soften, scoop into shell, gently push down into pie shell with flat spatula.
-
-Scoop cool whip all over the top, cover with original plastic lid/cover and freeze for a few hours. When serving in wedges, may drizzle top with chocolate fudge/caramel sauce! Enjoy!
 
 **Java Chip Frappucino Ice Cream Pie &#8211; for Adults!**
 

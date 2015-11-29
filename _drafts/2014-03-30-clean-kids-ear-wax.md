@@ -3,36 +3,6 @@ title: 'How Should I Clean My Kid&#8217;s Ear Wax?'
 author: Dr. Julie Wei
 layout: post
 permalink: /clean-kids-ear-wax/
-sc_chat_opt_show_chatbox:
-  - off
-pyre_show_title:
-  - yes
-pyre_show_featured:
-  - yes
-pyre_en_sidebar:
-  - yes
-pyre_sidebar_pos:
-  - right
-pyre_youtube:
-  - 
-pyre_vimeo:
-  - 
-pyre_background:
-  - 
-pyre_en_full_screen:
-  - no
-pyre_bg_color:
-  - 
-pyre_bg_repeat:
-  - no-repeat
-pyre_bg_position:
-  - top left
-pyre_bg_attach:
-  - fixed
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
 ---
 <div style="width: 330px" class="wp-caption alignright">
   <a href="http://www.flickr.com/photos/26785399@N00/275916513" target="_blank"><img class="zemanta-img-inserted zemanta-img-configured" title="Q-Tips" alt="Q-Tips" src="/wp-content/uploads/2014/04/275916513_aa101bded9_n.jpg" width="320" height="240" /></a>
