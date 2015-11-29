@@ -6,9 +6,8 @@
           <!-- top-level pages as defined in _data/top_menu.yml -->
           {% for spage in site.data.top_menu %}
           {% if spage.title %}
-          <li
-              class="{% if page.url == spage.url %}active{%else%}inactive{%endif%}">
-            <a class="{% if page.url == spage.url %}active{%else%}inactive{%endif%}"
+          <li class="{% if page.url == spage.url %}active{% else %}inactive{% endif %}">
+            <a class="{% if page.url == spage.url %}active{% else %}inactive{% endif %}"
                href="{{ spage.url | prepend:site.baseurl }}">
               {{spage.title }}
             </a>
