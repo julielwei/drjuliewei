@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h3>Posts relating to &quot;{{page.title}}&quot;</h3>
+<h3>Posts relating to &quot;{{ page.title }}&quot;</h3>
 
 {% unless page.content == '' %}
 <p>{{ page.content }}</p>
@@ -23,8 +23,7 @@ layout: default
         <div class="title">{{post.title}}</div>
         <div class="summary">
           {%if post.summary %}
-          {{ post.summary | strip_html |strip_newlines |truncatewords:80 |
-          truncate:400 }}
+          {{ post.summary | strip_html |strip_newlines |truncatewords:80 | truncate:400 }}
           {% else %}
           {{ post.excerpt | strip_html | strip_newlines | truncate:360 }}
           {% endif %}

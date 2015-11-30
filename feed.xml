@@ -15,8 +15,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{%if post.summary %}
-          {{ post.summary | strip_html |strip_newlines |truncatewords:20 |
-          truncate:100 }}
+          {{ post.summary | strip_html |strip_newlines |truncatewords:20 | truncate:100 }}
           {% else %}
           {{ post.excerpt | strip_html | strip_newlines | truncate:90 }}
           {% endif %}</description>

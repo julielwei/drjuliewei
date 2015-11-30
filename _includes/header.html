@@ -6,19 +6,13 @@
           <!-- top-level pages as defined in _data/top_menu.yml -->
           {% for spage in site.data.top_menu %}
           {% if spage.title %}
-          <li class="{% if page.url == spage.url %}active{% else %}inactive{% endif %}">
-            <a class="{% if page.url == spage.url %}active{% else %}inactive{% endif %}"
-               href="{{ spage.url | prepend:site.baseurl }}">
-              {{spage.title }}
-            </a>
-          </li>
+          {% capture clazz %} {% if page.url == spage.url %} active {% else %}inactive {% endif %} {% endcapture %}
+          <li class="{{clazz}}"><a class="{{clazz}}" href="{{ spage.url | prepend:site.baseurl }}">{{spage.title }}</a></li>
           {% endif %}
           {% endfor %}
           <!-- end: top-level pages -->
         </ol>
-        <div class="search navbar-form navbar-right">
-          {% include google_cs.html %}
-        </div>
+        <div class="search navbar-form navbar-right">{% include google_cs.html %}</div>
         <div class="social navbar-right">{% include social_icons.html %}</div>
       </div>
     </nav>
@@ -29,10 +23,7 @@
       <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed"
-                  data-toggle="collapse"
-                  data-target="#djw-navbar-collapse"
-                  aria-expanded="false">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#djw-navbar-collapse" aria-expanded="false">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -43,9 +34,7 @@
           <ul class="nav navbar-nav">
             <!-- post tag -->
             {% for tag in site.tags %}
-            <li><a href="{{site.baseurl}}{{site.tag_baseurl}}{{tag[0]}}">
-              {{tag[0] | capitalize }}
-            </a></li>
+            <li><a href="{{site.baseurl}}{{site.tag_baseurl}}{{tag[0]}}">{{tag[0] | capitalize }}</a></li>
             {% endfor %}
             <!-- end: post tag-->
           </ul>
