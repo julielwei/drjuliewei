@@ -11,7 +11,9 @@ categories:
   - sugar
 tags: 
   - blog
+published: true
 ---
+
 
 
 Add a title and underline it
@@ -39,5 +41,4 @@ If you want a horizontal line that goes across the page try three asterisks on a
 
 If you want to link to something put it in hard parens with the url in soft parens afterward.  So [this is a link](http://to.this.site/).  Wasn't that easy?  Images are just about the same, except you use an exclamation point first.  So to insert an image ![This is 'alt' text if the browser can't display the image](http://this.is.the.link/to-an-image.jpg "and a title, if you want one")
 
-You can bold to words with *asterisks before and after*  or **double asterisks, if you prefer** it even stronger. If you want to type and asterisk just use a slash first \*.
-
+You can italicize to words with *asterisks before and after*  or bold them with **double asterisks, if you prefer**. If you want to type and asterisk just use a slash first \*.
