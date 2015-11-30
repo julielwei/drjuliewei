@@ -2,8 +2,8 @@
 title: Does your child have food allergies?
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /does-your-child-have-food-allergies/
 ---
 I am really challenging myself as I write on this topic of “food intolerance” and “food allergy”, and comment on the latest trend of “IgG (immunoglobulin G) Food Intolerance Tests”.<sup>1</sup>  Why write about a subject for which I am definitely not an “expert”? It is precisely the disconnect between the new industry of food intolerance testing, the fast-paced expansion of “integrative medicine”, and the traditional academic medical and research environment in which I live, practice, and care for pediatric patients that mandate an honest discussion.  Let’s back up to my medical school years,1992-1996, my lecture courses in organic chemistry, pharmacology, physiology, followed by clinical rotations in internal medicine, pediatrics, amongst all other core and subspecialty rotations did not ever include “food intolerance”.  I distinctly remember learning about “anaphylaxis”, defined as a severe, potentially life-threatening allergic reaction which can occur within seconds or minutes of exposure to something you’re allergic, such as peanuts. This is so widely respected such that any flight on Southwest airline, if a passenger has a declared peanut allergy then you can be sure not a single packet will be served during the snack service. Anaphylaxis describes the cascade of immune system reactions that can lead one into “shock” where there can be life-threatening changes in blood pressure, rash, swelling of mucous membranes that can lead to difficulty breathing. It can occur with medications and venom from bee sting or insects.  Generally, severe positive reaction on skin prick or intradermal skin test is what results in recommendation of caretakers having an “Epi-pen” for immediate treatment should unintended exposure occur.

@@ -2,8 +2,8 @@
 title: 9 Healthy Snacks for Children If They Must Eat After Dinner
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /evening-snacks-9-healthy-snacks-for-children-if-they-must-eat-after-dinner/
 ---
 In my [*5 Tips to A Healthier Wei*][1], one tip is to avoid bedtime and nighttime snacking whenever possible. But let’s face it, it is not realistic to expect that children will never eat or drink after dinner, especially those active in sports and/or going through growth spurts!  Therefore, as a mother of a young child, I always make recommendations that I know are realistic and achievable.  What I usually share with parents and caretakers is that ideally, we teach our children to eat well during mealtime, and enjoy their snacks in between meals without developing a routine habit of eating and drinking (other than water) close to or right before bedtime.  This is to minimize children going to sleep with a stomach full of undigested contents which then has the chance to ferment and reflux into their esophagus and even throats.  The same holds true for adults as well.

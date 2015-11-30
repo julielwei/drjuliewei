@@ -2,8 +2,8 @@
 title: 'ALLERGIES: Does Your Child Have Allergies or Something Else?'
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /allergies-does-your-child-have-allergies-or-something-else/
 ---
 It’s April 20<sup>th</sup>, yet here in Kansas City, there is forecast for possible snow next Tuesday. It certainly feels like Spring decided to take the year off and we are left to wait for summer. The trees and grass however, have braved the low temperatures, giving us hope that warmer weather is around the corner based on their recent activity.  As a pediatric <a class="zem_slink" title="Otolaryngology" href="http://en.wikipedia.org/wiki/Otolaryngology" target="_blank" rel="wikipedia">ear, nose, and throat</a> specialist, I am grateful for job security as we transition from what seems to be another never ending cold and flu season right into the allergy season.  As I discuss in [*A Healthier Wei*][1], one of the most common reasons young preschool aged children and all children are prescribed systemic allergy medications, both in the forms of nasal sprays and pills, are for presumed allergies to a variety of things in our environment.  I have met countless preschoolers who have been on daily medication for years, continuously, despite seasons.  These are children who have not undergone formal <a class="zem_slink" title="Allergy test" href="http://en.wikipedia.org/wiki/Allergy_test" target="_blank" rel="wikipedia">allergy testing</a> for a very good reason: allergy testing is not sensitive or definitive in young children.  Children can be born allergic to food and animals, but really need a few years (with exposure to the variety of aeroallergens) to perhaps develop allergies to trees, grass, pollen, mold, dustmites, etc.  Whenever I meet young children who come to see me for runny nose, congestion, and “stuff” head, despite being on years of allergy medications and other over-the-counter medications, I truly enjoy the opportunity to help families figure out what the problem truly is.

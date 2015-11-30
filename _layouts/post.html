@@ -12,13 +12,13 @@ layout: default
       {% if page.categories.size > 0 %}
         In categories:
         {% for cat in page.categories %}
-      <a href="{{site.baseurl}}/{{cat}}">{{cat}}</a>
+      <a href="{{site.baseurl}}/{{cat | lowercase}}">{{cat}}</a>
         {% endfor %}
       {% endif %}
       {% if page.tags.size > 0 %}
         and tags:
         {% for tag in page.tags %}
-      <a href="{{site.baseurl}}{{site.tag_baseurl}}{{tag}}">
+      <a href="{{site.baseurl}}{{site.tag_baseurl}}{{tag | lowercase}}">
         {{tag}}</a>
         {% endfor %}
       {% endif %}

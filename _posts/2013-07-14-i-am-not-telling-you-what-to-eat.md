@@ -2,8 +2,8 @@
 title: I AM NOT TELLING YOU WHAT TO EAT!!!
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /i-am-not-telling-you-what-to-eat/
 ---
 Today I am blessed with media coverage from Fox News Online-Health section, <http://www.foxnews.com/health/2013/07/14/milk-and-cookie-disease-new-childhood-health-condition-caused-by-diet/>.  A freelance writer summarized my philosophy, observations, and key points from my book *“A Healthier Wei” *in this succinct piece.  As I read the article for the first time, I also read the comments posted form the public and the reactions from her piece.  Let me be clear, I am not and never have mandated anyone,  readers and parents, what to eat, I have always shared simply my observations and experience working with families who has a child in their lives that suffers from chronic symptoms that even using many medications did not help.  Here are some comments from the posting by Fox News this morning:

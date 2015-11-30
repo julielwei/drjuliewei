@@ -4,7 +4,7 @@ layout: default
 {% for cat in site.categories%}
 <div class="category">
   <div class="title">
-    <a href="{{cat[0] | prepend:site.base-url}}"> {{ cat[0] }}</a>
+    <a href="{{cat[0] | prepend:site.base-url}}"> {{ cat[0] | capitalize}}</a>
   </div>
   <ol class="articles">
     {% for post in cat[1] limit:3 %}

@@ -2,8 +2,8 @@
 title: Does Your Teenager Have Chronic Fatigue?
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /teenager-chronic-fatigue/
 ---
 &nbsp;

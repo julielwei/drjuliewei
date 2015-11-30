@@ -2,8 +2,8 @@
 title: Kale Salad with Almonds and Apples Kids Will Love
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /kale-salad-almonds-apples/
 ---
 &nbsp;

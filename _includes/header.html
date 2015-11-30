@@ -6,7 +6,7 @@
           <!-- top-level pages as defined in _data/top_menu.yml -->
           {% for spage in site.data.top_menu %}
           {% if spage.title %}
-          {% capture clazz %} {% if page.url == spage.url %} active {% else %}inactive {% endif %} {% endcapture %}
+          {% capture clazz %}{% if page.url == spage.url %}active{% else %}inactive {% endif %}{% endcapture %}
           <li class="{{clazz}}"><a class="{{clazz}}" href="{{ spage.url | prepend:site.baseurl }}">{{spage.title }}</a></li>
           {% endif %}
           {% endfor %}
@@ -34,7 +34,7 @@
           <ul class="nav navbar-nav">
             <!-- post tag -->
             {% for tag in site.tags %}
-            <li><a href="{{site.baseurl}}{{site.tag_baseurl}}{{tag[0]}}">{{tag[0] | capitalize }}</a></li>
+            <li><a href="{{site.baseurl}}{{site.tag_baseurl}}{{tag[0] | lowercase}}">{{tag[0] | capitalize }}</a></li>
             {% endfor %}
             <!-- end: post tag-->
           </ul>

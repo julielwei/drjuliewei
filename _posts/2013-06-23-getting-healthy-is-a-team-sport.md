@@ -2,8 +2,8 @@
 title: Getting Healthy is a Team Sport!
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /getting-healthy-is-a-team-sport/
 ---
 I am late in finishing this blog.  Happy Belated Father’s Day to all the men in our lives! Let me confess that I did not even get Dave a gift for Father’s Day. Two weeks into my new job and I had allowed myself to be distracted by our recent move, wondering how I would go about finding a hairdresser (a decision like that is worthy of it’s own blog!), and getting myself back into the groove of a mom who tries to cooks 5 nights per week. Frustration number one, not knowing your new grocery store like your own house. It has been taking me twice as long to get half as much on my grocery list. Second, when I have been cooking, I can’t seem to remember where I unpacked everything! It would definitely help if I can find the cooking utensils when I need them.  Third, I now have some missing key ingredients/seasoning for cooking which I depend on since we had to empty the refrigerator and almost no liquid was able to be transported by the moving company. ** **More time in the new kitchen should hopefully reunite my eggbeater and I, and hopefully the muffins will be less dry, and my cooking back up to par.

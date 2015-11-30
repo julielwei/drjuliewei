@@ -2,8 +2,8 @@
 title: Does your child have an ear infection? How do you know and what’s the best treatment?
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /does-your-child-have-an-ear-infection-how-do-you-know-and-whats-the-best-treatment/
 ---
 One of the most straightforward diagnosis that I encounter in clinics daily is that of ear infections, yet the topic of ear infections and ear tubes, as well as management of

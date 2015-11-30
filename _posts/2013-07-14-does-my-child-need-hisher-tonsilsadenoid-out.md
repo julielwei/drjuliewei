@@ -2,8 +2,8 @@
 title: Does My Child Need His/Her Tonsils/Adenoid Out?
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /does-my-child-need-hisher-tonsilsadenoid-out/
 ---
 For over 10 years, parents and primary caretakers of children of all ages have come to see me to discuss whether their child needs to have his/her tonsil/adenoid removed.

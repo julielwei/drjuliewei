@@ -2,8 +2,8 @@
 title: 'How Much Candy is Your Child Drinking? Part 2 [Infographic]'
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /much-candy-child-drinking-part-2-infographic/
 ---
 [  

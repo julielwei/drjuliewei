@@ -2,8 +2,8 @@
 title: 'Back to School Health &#8211; Part 3 &#8211; What&#8217;s for Lunch?'
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /back-to-school-health-part-3-whats-for-lunch/
 ---
 <div style="width: 250px" class="wp-caption alignright">

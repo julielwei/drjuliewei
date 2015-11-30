@@ -2,8 +2,8 @@
 title: 'Breakfast Muffins &#8211; Make the Weekday Mornings a Breeze&#8230;'
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /breakfast-muffins-make-the-weekday-mornings-a-breeze/
 ---
 [<img class="alignleft size-thumbnail wp-image-573" alt="2013-07-21 16.19.11_sm" src="/wp-content/uploads/2013/08/2013-07-21-16.19.11_sm-150x150.jpg" width="150" height="150" />][1]I decided to make a variation of “[A Healthier Wei][2]” breakfast muffins today after being inspired by Nancy, who always calls me after she makes a new type of muffin using our basic recipe.  She made a “sweet potatoe pistachio” variation, which I would have tried had I had any luck finding canned sweet potato in the grocery store that was not drowning in high fructose corn syrup or in some pineapple orange syrup.  So instead, my batch today is “Pumpkin Carrot”, and while it’s in the oven on this gorgeous Orlando Sunday afternoon I thought I’d share the recipe with you.  Start with the base as described below, then add whatever you want which will equate to about 2 cups of mashed fruit or vegetables, and you can come up with most variations which I hope someday to assemble in “A Healthier Wei Cookbook” for you. In our book “[A Healthier Wei][2]”, there are 2 recipes for muffins: one that is banana chocolate chip and the other is dark chocolate cherry.  There was a typo as I never use all purpose flour  but instead use whole wheat flour when making these nutricious and delicious muffins.

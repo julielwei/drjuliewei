@@ -2,8 +2,8 @@
 title: 'Back To School Night &#8211; What You Should Ask In Addition to Academics'
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /back-school-night-ask/
 ---
 &nbsp;

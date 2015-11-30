@@ -3,8 +3,8 @@ title: Nasal Congestion
 author: Dr. Julie Wei
 layout: post
 permalink: /nasal-congestion/
-categories: [Milk and Cookie Disease, Nasal Congestion]
-tags: [Blog]
+categories: [milk and cookie disease, nasal congestion]
+tags: [blog]
 ---
 A stuffy nose, a chronic cough, or recurrent croup. These are but a few examples of common reasons why loving mothers and families bring their child to come see an ear, nose and throat specialist. Let’s just stay focused on the stuffy nose. I remember during my residency training, an attending physician (one who has already finished their training) pulled me aside after hearing that I was going to spent two more years in special training to become an ENT just for children.  “Why would you do a fellowship just to do tubes and tonsils?”  Thankfully, this individual was terribly wrong about what my career  has been about, but never, would I have known, that the career I have chosen as a pediatric ENT could have such an impact on the lives of children and their families.  A stuffy nose.  What is the big deal? Who cares? Well, a mother does, every mother and father cares.  The most basic and vital of physiologic function that humans depend on is the ability to breathe comfortably through our noses. If anyone has truly really listened to the mothers and families of children who have chronic difficulty breathing through their nose, then he and she may begin to understand the despair over a stuffy nose.  Every clinic day, I meet loving mothers and families who share with me their  experiences of what initially was just irritating, but eventually frustrating, and finally emotionally, physically, and financially exhausting journey of seeking a solution for their child’s constant stuff nose.
 

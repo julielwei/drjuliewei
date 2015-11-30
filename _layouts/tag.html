@@ -15,8 +15,7 @@ layout: default
         {% if post.featured-image %}
         <img class="img-responsive" src="{{ post.featured-image }}"/>
         {% else %}
-        <img class="img-responsive"
-             src="{{ '/img/default.png' | prepend: site.base-url}}"/>
+        <img class="img-responsive" src="{{ '/img/default.png' | prepend: site.base-url}}"/>
         {% endif %}
       </div>
       <div class="col-md-10 text-container">

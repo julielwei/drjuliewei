@@ -2,8 +2,8 @@
 title: Does Your Child Have Speech Delay?
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /does-your-child-have-speech-delay/
 ---
 I decided to write this blog on a common reason otherwise healthy toddlers are often referred to see a pediatric ENT like myself.  While the title of this blog and the question appear simple, getting a clear answer from health care providers, speech language pathologists, teachers, as well as the process of evaluation and then intervention (if necessary) can be complex and not information that is easily accessible by families in my experience.   First, I am really focusing on young toddlers who were born full term, otherwise healthy, without any medical, genetic, or serious health problems. I am talking about that child (often second or third) who seems to not be interested in speaking, and may or may not appear to understand the instructions you are giving or responds when you call him/her.

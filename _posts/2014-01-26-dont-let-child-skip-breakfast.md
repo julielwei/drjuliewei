@@ -2,8 +2,8 @@
 title: 'Don&#8217;t Let Your Child Skip Breakfast!'
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /dont-let-child-skip-breakfast/
 ---
 &nbsp;

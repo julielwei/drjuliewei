@@ -2,8 +2,8 @@
 title: Top Foods and Beverages to Avoid for Children
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /top-foods-and-beverages-i-avoid-at-grocery-stores/
 ---
 There is nothing like saying “no” to your child, repeatedly, when he/she pleads for certain items at the grocery store, that makes you feel so conflicted as a parent.  As you feel the confidence of being a parent who may be mindful about feeding your child healthy foods, there is that guilt which creeps in as your child eagerly reminds you that many (or all) of the other kids in class have enjoyed these items. I have realized that by refusing to purchase certain foods/beverages, I have given these products a magical “mystique” and quality which makes Claire even more curious.  However, I continue to discuss with her reasons why by reading the nutrition labels together, sharing facts about the reasons why such items are not “healthy”, and then still feel defeated since at the end of the day, a 7-year old really cares about relating to her peers. Here are some common items I consciously do not not purchase during my weekly grocery shopping:

@@ -2,8 +2,8 @@
 title: Acts of Love -Part 2
 author: Dr. Julie Wei
 layout: post
-categories: [Undefined]
-tags: [Blog]
+categories: [undefined]
+tags: [blog]
 permalink: /acts-love-part-2/
 ---
 <img class="alignleft size-medium wp-image-1107" src="/wp-content/uploads/2014/08/IMG_2561-300x225.jpg" alt="IMG_2561" width="300" height="225" />We just returned from Chicago and a wonderful few days of catching up with Dave’s family. We stayed at Brookdale Senior Living Center so that we can hang out with Claire’s Great Grandmother Tilly. Playing a mean game of BINGO with the residents was definitely a highlight for her, especially since she had her own black velvet bag full of quarters! We spent some time shopping, and on Saturday Dave and I took Claire, and our niece and nephew, and Tilly to the [Lazzadro Museum of Lapidary Art][1] .  After the difficult task of deciding on the which stone to buy at the gift shop,  we walked next door to see the beautiful flowers at the [Wilder Park Conservatory][2]. Everyone loved a gorgeous humidity-free day outdoors!
