@@ -1,16 +1,12 @@
 ---
-title: "Happy New Year! A Healthier Wei for 2015"
+title: Happy New Year! A Healthier Wei for 2015
 author: Dr. Julie Wei
 layout: post
-categories: 
-  - family
-tags: 
-  - blog
-permalink: "/happy-new-year-healthier-wei-2015/"
-"featured-image": "/wp-content/uploads/2014/12/IMG_3580-copy-225x300.jpg"
-published: true
+categories: [undefined]
+tags: [blog]
+permalink: /happy-new-year-healthier-wei-2015/
+featured-image: /wp-content/uploads/2014/12/IMG_3580-copy-225x300.jpg
 ---
-
 <img class="alignleft wp-image-1145 size-medium" style="padding-right: 20px;" src="/wp-content/uploads/2014/12/IMG_3580-copy-225x300.jpg" alt="IMG_3580 copy" width="225" height="300" />How many times have you thought about “New Year’s Resolutions” every December after a wonderful season of indulgence, great parties, celebrations of love with family and friends? I know I have the same conversation with myself year after year. Actually, to be precise, there is a quiet voice speaking to me in the background, reminding me that what I must resolve to do for the newyear is the following:
 
   * Relax more, stress less
@@ -32,12 +28,6 @@ published: true
 **Be Nicer to Husband and Daughter. **Every day, I am aware that I give my best to my patients and their families, and co-workers. At the end of the day, it’s so easy to not be at my best and get “lazy” when it comes to the two most precious people in my life. Well, in 2015, I vow to be more gentle, patient, and give more undivided attention to Dave and Claire. I want to, and I need to. Giving them undivided attention allows me to get away from work and is the only way for me to have some type of “not so balanced” balance in my life. I will treat them as I do my patients if not better, as long as I focus on that I know they’ll be treated like royalty.
 
 What are your resolutions?
-
-<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
-
-<p style="height:80px">
-  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
-</p>
 
 
 

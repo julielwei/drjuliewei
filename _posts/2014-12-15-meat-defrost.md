@@ -1,15 +1,11 @@
 ---
-title: "If Meat Would Defrost Itself&#8230;."
+title: 'If Meat Would Defrost Itself&#8230;.'
 author: Dr. Julie Wei
 layout: post
-categories: 
-  - food
-tags: 
-  - blog
-permalink: "/meat-defrost/"
-published: true
+categories: [undefined]
+tags: [blog]
+permalink: /meat-defrost/
 ---
-
 I used to tell people that if meat would defrost itself, divorce rate would be half of what it is, since deep down I truly believe this is a major factor that adds stress into most family&#8217;s lives. If meat had the ability to escape from the freezer out to the counter top, conveniently and in time for me to make dinner the moment I walk in the door, there would have been many nights Dave and I could have avoided tension and I would have managed myself better.
 
 Let me start by clearly stating that I am married to a great guy who is an amazing father, and as we approach our 11th year wedding anniversary I am continually grateful for Dave&#8217;s incredibly and superhuman ability to fix all things electronic, computer-related, household related, car-related, and basically there is NOTHING my husband can&#8217;t fix&#8230;except dinner ! UNLESS we have communicated and have a plan, then he is absolutely able to make that too!
@@ -36,13 +32,7 @@ I love my husband dearly! he makes the best roasted sweet potatoes cut into perf
 
 What&#8217;s for dinner in your house tomorrow night?
 
-&nbsp;
 
-<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
-
-<p style="height:80px">
-  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
-</p>
 
 
  [1]: the-book

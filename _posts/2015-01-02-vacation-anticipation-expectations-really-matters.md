@@ -1,16 +1,12 @@
 ---
-title: "Vacation – Anticipation, Expectations, and What Really Matters"
+title: Vacation – Anticipation, Expectations, and What Really Matters
 author: Dr. Julie Wei
 layout: post
-categories: 
-  - family
-tags: 
-  - blog
-permalink: "/vacation-anticipation-expectations-really-matters/"
-"featured-image": "/wp-content/uploads/2015/01/IMG_3010-300x225.jpg"
-published: true
+categories: [undefined]
+tags: [blog]
+permalink: /vacation-anticipation-expectations-really-matters/
+featured-image: /wp-content/uploads/2015/01/IMG_3010-300x225.jpg
 ---
-
 <img class="alignleft wp-image-1151 size-medium" style="margin-right: 15px;" src="/wp-content/uploads/2015/01/IMG_3010-300x225.jpg" alt="Vacation" width="300" height="225" />This week we are enjoying amazing family time for 3 here in Cabo San Lucas, Mexico.  Our timeshare week each year after Christmas has always been used as that, “time share”, where we bring down families and friends to enjoy our spacious suite at a nice resort.  Not that those weeks haven’t been special and provided great memories, but this is the first year that we came by ourselves and it’s definitely provided ability to focus better and kept me from being in “hostess” mode during my own vacation.
 
 We are so very fortunate to be able to plan and have “vacations”, that is, be able to travel away from home for several days to enjoy either a location of warmth and gorgeous beach or one of natural beauty requiring exploration like Rocky Mountain National Park.  Each year, I torture myself with the ritual of searching for hours online to find a great new location for us and plan our lodging, meals, and activities by reading endless reviews and indulge in a visual buffet of images. These hours spent planning the “perfect” vacation truly provides me the following:
@@ -33,17 +29,7 @@ We are so very fortunate to be able to plan and have “vacations”, that is, b
 
 We can’t all go on exotic vacations all the time, but while here and writing this blog, I see clearly that I must find the “vacation” in my daily living and I can easily achieve A through E right there our home.  2015 promises to be many vacations for me.
 
-&nbsp;
 
-&nbsp;
-
-&nbsp;
-
-<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
-
-<p style="height:80px">
-  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
-</p>
 
 
  [1]: the-book

@@ -17,15 +17,6 @@ featured-image: /wp-content/uploads/2014/08/IMG_2561-300x225.jpg
 
 Friday night we attended Dave’s cousin’s beautiful wedding, enjoying a rare chance to see his maternal aunts, uncles, cousins, and family friends. Claire loved wearing “dangly” earrings and having her cousin wear the same ones. On Saturday, another gorgeous day spent at my in-laws, another great day spending time with Tilly. There was no doubt that nothing delights her more than being around her family.  On the way to my in-law’s house, Tilly asked me to bring a frozen Tupperware of soup for Dave’s father and his wife. I jokingly said, “no way, that’s liquid gold that I made just for you!” I brought my in-laws a container, for I knew that Tilly, just like me, always expressed her love through food. Even now, she wanted to nourish her 72-year old baby boy. Tilly spent years making klotchky, chocolate cake, ground beef stroganoff, just a few favorites for the family. The best times she and I have spent have always been in the kitchen.  May we all live simply and love one another through healthy and nourishing food.
 
-&nbsp;
-
-&nbsp;
-
-<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
-
-<p style="height:80px">
-  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
-</p>
 
 
  [1]: http://www.lizzadromuseum.org/
