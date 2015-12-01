@@ -108,5 +108,5 @@ Julie L Wei, MD FAAP
  [2]: http://fauquierent.blogspot.com/2013/04/when-your-child-has-draining-ear.html
  [3]: http://https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.pedisurg.com%2Fpteducent%2Fwhite_mucoid_OME.jpg&imgrefurl=http%3A%2F%2Fwww.pedisurg.com%2Fpteducent%2Findex.htm&docid=2f8lPezc0ufD-M&tbnid=6Be0QMsVuLMu8M%3A&w=220&h=171&ei=eHKiUebRK8WVrgHmooHABw&ved=0CAIQxiAwAA&iact=rics
  [4]: http://http://www.entusa.com/ear_tubes_surgery.htm
- [5]: the-book/ "The Book"
- [6]: the-book
+ [5]: /book/ "The Book"
+ [6]: /book/

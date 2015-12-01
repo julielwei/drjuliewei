@@ -27,4 +27,4 @@ Sometimes I joke with parents in a self-deprecating manner that I am just a glor
 By the way, stop plugging your child’s ears from bath and swimming, unless they complain of pain every time water gets in. Ten years of a handful of studies show that children whose ears are plugged from water are no better than those who plug and there is no difference….but everyone is much happier without those darn plugs. Yes, even if your child is swimming in a lake (again, another blog worthy topic). I am a mother first, and believe that your child deserves more than opinions, but information based on science.
 
 
- [1]: the-book
+ [1]: /book/

@@ -66,7 +66,7 @@ An increasing number of children are suffering from Ear, Nose and Throat complai
   <strong>Find Us on <a href="http://twitter.com/ahealthierwei">Twitter </a>and <a href="http://facebook.com/ahealthierwei">Facebook </a>or<a title="Contact Us" href="contact/"> Contact Us.</a><a href="http://facebook.com/ahealthierwei"><br /> </a></strong>
 </p>
 
-<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
+<span style="width:105px;display:table;margin:0 auto;"><a href="/book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
 
 <p style="height:80px">
   <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
@@ -80,5 +80,5 @@ When she is not in the clinic, operating room, or conducting research, you will 
 
  [1]: wp-content/uploads/2013/02/AHealthierWei_cover.jpg
  [2]: dr-wei/ "Dr. Wei"
- [3]: the-book/ "The Book"
- [4]: the-book
+ [3]: /book/ "The Book"
+ [4]: /book/

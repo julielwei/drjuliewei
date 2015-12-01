@@ -29,4 +29,4 @@ If it were cancer, I grieve with you and know that you and I could not have done
 
 
  [1]: http://kidshealth.org/parent/medical/endocrine/metabolic_syndrome.html
- [2]: the-book
+ [2]: /book/

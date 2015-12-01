@@ -64,4 +64,4 @@ If your child has any of the symptoms above, talk to your child’s primary care
 
 
 
- [1]: the-book
+ [1]: /book/

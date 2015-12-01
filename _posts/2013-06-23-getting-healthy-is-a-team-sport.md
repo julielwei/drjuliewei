@@ -31,4 +31,4 @@ Blend until smooth
 
 
  [1]: wp-content/uploads/2013/06/IMG_3446.jpg
- [2]: the-book
+ [2]: /book/

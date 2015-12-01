@@ -34,9 +34,9 @@ Enjoy the dairy and sugar, but in small doses, savor slowly, and think about wha
 
 
  [1]: http://www.dailymail.co.uk/news/article-2418533/Could-milk-cookies-make-child-ill-Doctor-fears-bedtime-treats-cause-health-problems.html
- [2]: the-book/ "The Book"
+ [2]: /book/ "The Book"
  [3]: a-healthier-wei-just-not-today/ "“A Healthier Wei, Just Not Today…”"
  [4]: http://www.elfontheshelf.com/
  [5]: vitamin-d-natural-better-supplement/ "Vitamin D – Natural is better than supplement"
  [6]: top-foods-and-beverages-i-avoid-at-grocery-stores/ "Top Foods and Beverages to Avoid for Children"
- [7]: the-book
+ [7]: /book/

@@ -68,4 +68,4 @@ As a pediatric Ear, Nose, and Throat specialist, my differential diagnosis (cond
  [6]: 5-tips/ "5 Tips to A Healthier Wei"
  [7]: http://www.medtronic.com/for-healthcare-professionals/products-therapies/ear-nose-throat/therapies/powered-inferior-turbinoplasty-procedure/
  [8]: top-reasons-for-nasal-irrigation/ "Top Reasons Your Child Should Try Nasal Irrigation"
- [9]: the-book
+ [9]: /book/

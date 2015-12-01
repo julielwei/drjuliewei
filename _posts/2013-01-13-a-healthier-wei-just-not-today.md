@@ -18,5 +18,5 @@ This past Saturday, Claire and I enjoyed rare “mommy and I” time at Barnes a
 
 Somedays will better than others, but everyday is a new beginning and a chance to do better, eat better, live healthier, and feel better! Every decision matters, at every meal, every snack time, and this is how it begins.  It’s not being aware and conscious about the food decisions that hurt us.  I hope that by continuing to support Claire and allow her to at least have a chance to make a choice, she will get the practice she needs to live “[A Healtheir Wei][1]”.
 
- [1]: /the-book/ "The Book"
- [2]: /the-book
+ [1]: /book/ "The Book"
+ [2]: /book/

@@ -51,4 +51,4 @@ Drizzle honey on the salad paddles, then toss the kale and apples.  Sprinkle al
 
 
  [1]: http://youtu.be/CkEFk4xvx18
- [2]: the-book
+ [2]: /book/

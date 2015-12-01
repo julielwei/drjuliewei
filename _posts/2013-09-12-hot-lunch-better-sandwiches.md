@@ -137,4 +137,4 @@ featured-image: /wp-content/uploads/2013/10/NS340WH004_Enlargement-150x150.png
 
 
  [1]: wp-content/uploads/2013/09/NS340WH004_Enlargement.png
- [2]: the-book
+ [2]: /book/

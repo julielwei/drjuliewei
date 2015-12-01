@@ -43,5 +43,5 @@ PLEASE, share this blog with any teenager in your life. Help them make a change 
  [1]: milk-cookie-disease/ "The “Milk and Cookie Disease”"
  [2]: http://fedupmovie.com/#/page/home
  [3]: http://en.wikipedia.org/wiki/Globus_pharyngis
- [4]: the-book/ "A Healthier Wei"
- [5]: the-book
+ [4]: /book/ "A Healthier Wei"
+ [5]: /book/

@@ -89,5 +89,5 @@ Top Choking Hazards -Food Items, for Children
 
  [1]: wp-content/uploads/2013/08/peanut.jpg
  [2]: 8.	http://psychology.about.com/library/bl_psychosocial_summary.htm
- [3]: the-book/ "The Book"
- [4]: the-book
+ [3]: /book/ "The Book"
+ [4]: /book/

@@ -18,6 +18,6 @@ Imagine if the voice box can never rest, what a terrible way to live!  Anyways,
 
 I have already forgiven myself, my work has just about consumed all my energy these days and I can’t really afford to lose more self-esteem.  Tomorrow will be a better day, tomorrow she will have minimal sugar again. Since her cough was so much less today, tomorrow maybe it will be just about gone. But we are hosting a dinner party tomorrow night….I will have to make sure we watch what goes in her mouth!   Oh, and Dave, well, he had a cold too, but we both remembered last night at 9:45, after the fireworks, several of the men gathered around the kitchen before we all left and they bonded over leftover pull pork sliders.  Rare for him to agree with me, but he did think that the rare late night eating likely led to some reflux,causing some of his throat discomfort this morning and today.Claire always reminds me of the term &#8220;[The Kitchen is Closed][2]&#8220;, which I affectionately titled my documentary trailer. I have to remind her that good choices need to occur throughout the day, not just in the evenings after dinner.
 
- [1]: the-book/ "The Book"
+ [1]: /book/ "The Book"
  [2]: the-video/ "The Video"
- [3]: the-book
+ [3]: /book/

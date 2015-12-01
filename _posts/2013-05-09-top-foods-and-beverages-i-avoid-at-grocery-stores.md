@@ -44,5 +44,5 @@ Find out how you and your family can eat in “*[A Healthier Wei][1]”*.
 
 
 
- [1]: http://ahealthierwei.com/the-book/ "The Book"
- [2]: http://ahealthierwei.com/the-book
+ [1]: http://ahealthierwei.com/book/ "The Book"
+ [2]: http://ahealthierwei.com/book/

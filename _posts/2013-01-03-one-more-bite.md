@@ -18,5 +18,5 @@ I have an excuse, the Chinese are notorious for overfeeding their infants/toddle
 
 “One more bite”, is it really worth it? I don’t believe so.  I have challenged myself for 2013 to not use this phrase, and simply see what happens.  I never ask Dave to take one more bite, nor myself or our dog.  Surely children have appetites that vary from day to day, as we adults do. Yet we can’t seem to accept that and must ensure that at every meal they eat as much as possible. Of course, I am only describing some of the children. There are many families whom I have met, who work hard to stop their overweight children from taking that “one more bite.” That’s another story for another time. For now, I have promised myself that I will respect Claire’s autonomy to decide for herself when she is full and when she is hungry.
 
- [1]: the-book/ "The Book"
- [2]: the-book
+ [1]: /book/ "The Book"
+ [2]: /book/

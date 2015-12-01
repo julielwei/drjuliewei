@@ -42,4 +42,4 @@ Please share with all of your loved ones awareness about juice and sweet beverag
  [3]: http://www.amazon.com/Salt-Sugar-Fat-Giants-Hooked/dp/1400069807
  [4]: milk-cookie-disease/ "The “Milk and Cookie Disease”"
  [5]: much-candy-child-drinking/ "How Much Candy Is Your Child Drinking? [Infographic]"
- [6]: the-book
+ [6]: /book/

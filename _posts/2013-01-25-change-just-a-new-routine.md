@@ -22,5 +22,5 @@ Change seems impossible because we are all creatures of habit and routine, yet o
 
 
 
- [1]: the-book/ "The Book"
- [2]: the-book
+ [1]: /book/ "The Book"
+ [2]: /book/

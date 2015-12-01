@@ -15,4 +15,4 @@ featured-image: /wp-content/uploads/2014/05/IMG_0448-300x225.jpg
  [3]: childhood-obesity-risks-starts-school-age/ "Childhood Obesity Risks Starts Before School Age!"
  [4]: http://http://www.everydayhealth.com/columns/health-answers/milk-and-cookie-disease-epidemic/
  [5]: how-to-make-changes-successfully-three-steps-to-a-healthier-child/ "How to Make Changes Successfully – Three Steps to A Healthier Child"
- [6]: the-book
+ [6]: /book/

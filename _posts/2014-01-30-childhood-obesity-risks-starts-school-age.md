@@ -48,5 +48,5 @@ Share this message please. An entire generation of our children and their health
 
  [1]: http://news.yahoo.com/study-kids-39-obesity-risk-starts-school-age-220118716.html
  [2]: top-foods-and-beverages-i-avoid-at-grocery-stores/ "Top Foods and Beverages to Avoid for Children"
- [3]: the-book/ "The Book"
- [4]: the-book
+ [3]: /book/ "The Book"
+ [4]: /book/

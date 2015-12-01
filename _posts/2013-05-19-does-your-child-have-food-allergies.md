@@ -27,6 +27,6 @@ Julie L. Wei, MD, FAAP
 
  [1]: http://www.ncbi.nlm.nih.gov/pubmed
  [2]: http://ccts.uth.tmc.edu/what-is-translational-research
- [3]: the-book/ "The Book"
+ [3]: /book/ "The Book"
  [4]: http://www.naturalnews.com/037923_gluten_sensitivity_GMOs_food_intolerance.html
- [5]: the-book
+ [5]: /book/

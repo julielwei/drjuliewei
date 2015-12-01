@@ -22,8 +22,8 @@ We have now been in Orlando for 9 days. I am committed to eating better, being m
 
  [1]: http://www.rebootwithjoe.com/tag/joe-cross/
  [2]: http://www.fatsickandnearlydead.com/
- [3]: the-book/ "The Book"
+ [3]: /book/ "The Book"
  [4]: http:///www.fatsickandnearlydead.com/
  [5]: http://http://www.foodnetwork.com/diners-drive-ins-and-dives/index.html
  [6]: http://www.guyfieri.com/
- [7]: the-book
+ [7]: /book/

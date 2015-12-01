@@ -21,5 +21,5 @@ Let’s feed ourselves and our children with intentionality. In fact, we must do
 
 
 
- [1]: the-book/ "The Book"
- [2]: the-book
+ [1]: /book/ "The Book"
+ [2]: /book/

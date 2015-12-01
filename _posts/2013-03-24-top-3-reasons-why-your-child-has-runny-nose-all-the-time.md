@@ -49,9 +49,9 @@ Here is the bottom line, if you have a young child (older than 12 months) with c
 </div>
 
 
- [1]: the-book/ "The Book"
+ [1]: /book/ "The Book"
  [2]: nasal-congestion/ "Nasal Congestion"
  [3]: coughing/ "Coughing"
  [4]: 5-tips/ "5 Tips to A Healthier Wei"
  [5]: http://www.ahealthierwei.com
- [6]: the-book
+ [6]: /book/

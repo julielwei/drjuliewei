@@ -29,4 +29,4 @@ I must be getting more nostalgic as I age, and I can’t tell you how sad I feel
 
 
 
- [1]: the-book
+ [1]: /book/

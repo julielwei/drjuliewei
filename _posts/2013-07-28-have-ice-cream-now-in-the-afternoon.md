@@ -52,4 +52,4 @@ When we were in Kansas, it was not hard to stop the ice cream habit once summer 
 </div>
 
 
- [1]: the-book
+ [1]: /book/

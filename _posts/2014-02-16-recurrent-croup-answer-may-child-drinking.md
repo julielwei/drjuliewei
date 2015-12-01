@@ -47,12 +47,12 @@ As for these children with recurrent croup, I have been very fortunate that most
 
 <span style="line-height: 1.5em;"> </span>
 
-<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
+<span style="width:105px;display:table;margin:0 auto;"><a href="/book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
 
 
  [1]: http://www.mayoclinic.org/diseases-conditions/gerd/expert-answers/laryngospasm/faq-20058269
  [2]: milk-cookie-disease/ "The “Milk and Cookie Disease”"
- [3]: the-book/ "The Book"
+ [3]: /book/ "The Book"
  [4]: sugar-the-most-powerful-bargaining-tool/ "Sugar- The Most Powerful Bargaining Tool"
  [5]: top-foods-and-beverages-i-avoid-at-grocery-stores/ "Top Foods and Beverages to Avoid for Children"
- [6]: the-book
+ [6]: /book/

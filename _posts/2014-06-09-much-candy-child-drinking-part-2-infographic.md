@@ -19,4 +19,4 @@ Designed by Lillian Woo.
 
 
  [1]: wp-content/uploads/2014/06/Info-Final.png
- [2]: the-book
+ [2]: /book/

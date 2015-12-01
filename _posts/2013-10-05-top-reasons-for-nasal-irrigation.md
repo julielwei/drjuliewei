@@ -27,4 +27,4 @@ While some parents squeeze the bottle instead of the child, children age 4 and o
 
  [1]: http://www.entnet.org/
  [2]: http://www.neilmed.com/usa/sinusrinse_pediatric.php
- [3]: the-book
+ [3]: /book/

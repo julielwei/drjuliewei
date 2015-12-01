@@ -16,6 +16,6 @@ So what is going on when I can’t blame the adenoid? Let me give a giant pardon
 
 Hope.  Every loving mother, father, and family will do whatever it takes to get their child healthy again. It is that indestructible and courageous commitment to find the solution to help their child that often compels them to go to just one more doctor. Maybe, just maybe, this doctor, can prescribe the right medication(s) to make this stuff nose go away.  When they meet me, this doctor will not prescribe any medications. In fact, there is a great likelihood this doctor will take your child off of medications. But beware, I will spend much time asking you what your child eats and drinks, and tell you if I think your child may have the “milk and cookie disease”.  This doctor will challenge you to decide whether your child can eat and drink healthier and even ask you to decrease your child’s dairy and sugar consumption. This doctor will insist you stop the bedtime and nighttime snacking, and exercise tough love when teaching your child that the “kitchen is closed” after dinner(and small dessert immediately after if you must).  This doctor, has hope, and I will share that hope with you. I have been privileged to share the thousands of positive experiences gained by families and children who have tried eating “[A Healthier Wei][1]’.  Hope is the reason that I can’t wait to meet you and your child. Hope is why I love what I do, for the chance to make a difference, to fix that stuffy nose.
 
- [1]: the-book/ "The Book"
+ [1]: /book/ "The Book"
  [2]: 5-tips/ "5 Tips to A Healthier Wei"
- [3]: the-book
+ [3]: /book/

@@ -22,4 +22,4 @@ There are more behavioral and psychiatric diagnoses in our children’s generati
 
 
 
- [1]: the-book
+ [1]: /book/

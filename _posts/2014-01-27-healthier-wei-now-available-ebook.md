@@ -14,6 +14,6 @@ We have received many requests from those outside of the US for access to the bo
 
 
 
- [1]: the-book/ "The Book"
+ [1]: /book/ "The Book"
  [2]: http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302
- [3]: the-book
+ [3]: /book/

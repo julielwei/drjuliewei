@@ -32,4 +32,4 @@ We can’t all go on exotic vacations all the time, but while here and writing t
 
 
 
- [1]: the-book
+ [1]: /book/

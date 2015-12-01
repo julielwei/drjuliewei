@@ -17,4 +17,4 @@ Even though I am of Buddhist faith and believe in reincarnation, I know that thi
 
 
  [1]: wp-content/uploads/2013/07/photo.jpg
- [2]: the-book
+ [2]: /book/

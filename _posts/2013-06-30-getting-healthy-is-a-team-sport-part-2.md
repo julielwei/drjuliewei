@@ -23,4 +23,4 @@ My reminder to myself, each and every day, is that I must be patient, and simply
 Here’s to finding my new TEAM! I hope you find yours for you and your entire family, so that we can all live the best, most healthy, and empowered lives we can.
 
 
- [1]: the-book
+ [1]: /book/

@@ -36,4 +36,4 @@ Combine carrots, onion, celery, chicken into large pot. Add water, spices, garli
 
 ps, make it with love
 
- [1]: the-book
+ [1]: /book/

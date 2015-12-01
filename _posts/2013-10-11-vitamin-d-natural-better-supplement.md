@@ -26,6 +26,6 @@ This may explain why Claire&#8217;s Great Grandmother Tilly, who will be 100 nex
  [3]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1079536/
  [4]: http://ods.od.nih.gov/factsheets/VitaminD-QuickFacts/
  [5]: http://www.dailymail.co.uk/news/article-2418533/Could-milk-cookies-make-child-ill-Doctor-fears-bedtime-treats-cause-health-problems.html
- [6]: the-book/ "The Book"
+ [6]: /book/ "The Book"
  [7]: //http://www.healthaliciousness.com/articles/high-vitamin-D-foods.php
- [8]: the-book
+ [8]: /book/

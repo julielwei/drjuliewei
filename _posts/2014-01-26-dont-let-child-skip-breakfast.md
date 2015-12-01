@@ -135,5 +135,5 @@ Of course, those ground flaxseed/whole wheat flour/oat bran muffins that I featu
 
 
 
- [1]: the-book/ "The Book"
- [2]: the-book
+ [1]: /book/ "The Book"
+ [2]: /book/

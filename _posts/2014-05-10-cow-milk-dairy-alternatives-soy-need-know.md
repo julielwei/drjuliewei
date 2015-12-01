@@ -50,4 +50,4 @@ May substitute strawberries with any other frozen or fresh fruit!
  [4]: http://www.cdc.gov/nutrition/everyone/basics/vitamins/iron.html
  [5]: http://www.huffingtonpost.com/dr-mercola/soy-health_b_1822466.html
  [6]: http://www.thekitchn.com/silken-tofu-an-interview-with-andrea-nguyenexpert-interview-171294
- [7]: the-book
+ [7]: /book/

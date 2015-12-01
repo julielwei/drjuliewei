@@ -67,4 +67,4 @@ featured-image: /wp-content/uploads/2014/03/slide-image-1-300x168.jpg
 
 
 
- [1]: the-book
+ [1]: /book/

@@ -33,4 +33,4 @@ Health is not possible without the basics of how to take care of one’s body, a
 
 If there is a teenager in your life or lives of those you love and know, please, ask today, “what are you drinking all day?” and “Did you eat breakfast and lunch?”
 
- [1]: the-book
+ [1]: /book/

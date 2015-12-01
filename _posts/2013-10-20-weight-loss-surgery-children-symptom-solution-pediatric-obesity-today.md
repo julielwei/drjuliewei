@@ -54,4 +54,4 @@ For more information, go to [www.kidshealth.org ][4]and [A Healthier Wei.][5]
  [3]: http://www.nemours.org//service/medical/obesity/nccorlando.html
  [4]: http://kidshealth.org/
  [5]:  "Home"
- [6]: the-book
+ [6]: /book/

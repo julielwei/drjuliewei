@@ -77,5 +77,5 @@ Have a wonderful Sunday and an even better Monday <img src="wp-includes/images/s
 
 
  [1]: wp-content/uploads/2013/07/2013-07-21-16.19.11_sm.jpg
- [2]: the-book/ "The Book"
- [3]: the-book
+ [2]: /book/ "The Book"
+ [3]: /book/

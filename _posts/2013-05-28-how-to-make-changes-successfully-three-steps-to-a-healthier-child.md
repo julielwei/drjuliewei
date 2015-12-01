@@ -25,5 +25,5 @@ Julie L. Wei, MD FAAP
  [3]: evening-snacks-9-healthy-snacks-for-children-if-they-must-eat-after-dinner/ "9 Healthy Snacks for Children If They Must Eat After Dinner"
  [4]: top-foods-and-beverages-i-avoid-at-grocery-stores/ "Top Foods and Beverages to Avoid for Children"
  [5]: sugar-the-most-powerful-bargaining-tool/ "Sugar- The Most Powerful Bargaining Tool"
- [6]: the-book/ "The Book"
- [7]: the-book
+ [6]: /book/ "The Book"
+ [7]: /book/

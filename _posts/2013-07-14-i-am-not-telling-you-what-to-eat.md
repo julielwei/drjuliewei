@@ -24,4 +24,4 @@ To all those out there who do not have a child in their life that may suffer fro
  [1]: http://www.ahealtheirwei.com/
  [2]: http://www.fatsickandnearlydead.com/
  [3]:
- [4]: the-book
+ [4]: /book/

@@ -59,4 +59,4 @@ References:
  [9]: http://www.sugar.org/other-sweeteners/sugar-alcohols/
  [10]: //http://www.whfoods.com/genpage.php?tname=foodspice&dbid=5
  [11]: http://www.foodinsight.org/Resources/Detail.aspx?topic=Sugar_Alcohols_Fact_Sheet
- [12]: the-book
+ [12]: /book/

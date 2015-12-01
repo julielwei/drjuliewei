@@ -51,4 +51,4 @@ For school aged kids and older, if there is that much wax and you are instructed
 
 
 
- [1]: the-book
+ [1]: /book/

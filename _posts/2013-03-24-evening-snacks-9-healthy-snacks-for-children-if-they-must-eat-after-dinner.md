@@ -62,4 +62,4 @@ I am not asking anyone to feel like a bad parent/caretaker by starving their som
 
  [1]: 5-tips/ "5 Tips to A Healthier Wei"
  [2]: media-coverage/ "Media Coverage"
- [3]: the-book
+ [3]: /book/

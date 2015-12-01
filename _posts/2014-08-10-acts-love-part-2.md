@@ -25,4 +25,4 @@ Friday night we attended Dave’s cousin’s beautiful wedding, enjoying a rare 
 
  [1]: http://www.lizzadromuseum.org/
  [2]: http://www.epd.org/facilities/wilder-park-conservatory
- [3]: the-book
+ [3]: /book/

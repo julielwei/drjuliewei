@@ -33,4 +33,4 @@ The truth is, nothing about our industry makes it easy for us moms and dads. Ite
 
 
 
- [1]: the-book
+ [1]: /book/

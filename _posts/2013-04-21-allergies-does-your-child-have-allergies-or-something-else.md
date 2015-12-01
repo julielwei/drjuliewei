@@ -23,7 +23,7 @@ Finally, I always ask about eating habits and constipation. If your child has th
 </div>
 
 
- [1]: the-book/ "The Book"
+ [1]: /book/ "The Book"
  [2]: 5-tips/ "5 Tips to A Healthier Wei"
  [3]: top-3-reasons-why-your-child-has-runny-nose-all-the-time/ "Top 3 Reasons Why Your Child Has Runny Nose All the Time"
- [4]: the-book
+ [4]: /book/

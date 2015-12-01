@@ -55,4 +55,4 @@ Bottom line, it is not normal for children to have habitual snoring, and if they
  [1]: http://www.webmd.com/sleep-disorders/guide/polysomnogram
  [2]: http://www.ahealthierwei.com
  [3]: wp-content/uploads/2013/07/PSQ22subscale.pdf
- [4]: the-book
+ [4]: /book/

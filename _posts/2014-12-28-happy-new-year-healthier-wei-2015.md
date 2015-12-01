@@ -32,4 +32,4 @@ What are your resolutions?
 
 
  [1]: act-love/ "Act of Love"
- [2]: the-book
+ [2]: /book/

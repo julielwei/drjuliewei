@@ -25,4 +25,4 @@ Enjoy your back to school night.  Dave does get a bit embarrassed as I tend to 
 
 
  [1]: wp-content/uploads/2013/09/photo-5.jpg
- [2]: the-book
+ [2]: /book/

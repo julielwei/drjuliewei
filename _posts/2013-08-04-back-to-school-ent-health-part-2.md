@@ -37,4 +37,4 @@ Okay, vision, hearing, and breathing have been assessed. Now what? I will write 
  [1]: http://www.chop.edu/healthinfo/otitis-media-with-effusion.html
  [2]: http://www.aafp.org/afp/2004/0615/p2929.html
  [3]: http://www.entnet.org/
- [4]: the-book
+ [4]: /book/

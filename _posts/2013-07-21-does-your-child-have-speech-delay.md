@@ -29,4 +29,4 @@ Now that Claire is 7, she is able to demonstrate her lack of speech delay by ass
 
 
  [1]: http://www.signingtime.com/
- [2]: the-book
+ [2]: /book/

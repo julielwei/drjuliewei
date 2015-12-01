@@ -19,5 +19,5 @@ Why are having conversations so hard? It is because conversations take intention
 
 I truly believe that in order for preventive care to work, to impact our nation’s health care delivery system, to empower families to change their own eating habits and that of their children, to reduce obesity in this generation of children, to get kids off of medications, to reduce misdiagnosis and overmedication, to boycott terrible processed foods with too much sugar and other toxins, to believe that every person can reclaim their health and live in[ A Healthier Wei][1], then we need to take the time and live in the moment, and have conversations.  Physicians do not have “time” to have conversations, but it is not about time, it is a mind-set. We must think differently for these challenging times that face us as people and as a society.  Have a conversation or two today, with your loved ones and your friends, and share this message.
 
- [1]: the-book/ "The Book"
- [2]: the-book
+ [1]: /book/ "The Book"
+ [2]: /book/
