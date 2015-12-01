@@ -7,7 +7,6 @@ categories:
 tags: 
   - blog
 permalink: "/metabolic-syndrome-diabetes-might-well-cancer/"
-"featured-image": "/wp-content/uploads/2014/10/img_2101-300x300.jpg"
 published: true
 ---
 
