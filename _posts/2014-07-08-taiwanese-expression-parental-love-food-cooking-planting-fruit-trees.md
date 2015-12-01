@@ -1,12 +1,16 @@
 ---
-title: 'Taiwanese Expression of Parental Love &#8211; Through Food, Cooking, and Planting of Fruit Trees….'
+title: "Taiwanese Expression of Parental Love &#8211; Through Food, Cooking, and Planting of Fruit Trees…."
 author: Dr. Julie Wei
 layout: post
-categories: [undefined]
-tags: [blog]
-permalink: /taiwanese-expression-parental-love-food-cooking-planting-fruit-trees/
-featured-image: /wp-content/uploads/2014/07/IMG_2547-300x225.jpg
+categories: 
+  - family
+tags: 
+  - blog
+permalink: "/taiwanese-expression-parental-love-food-cooking-planting-fruit-trees/"
+"featured-image": "/wp-content/uploads/2014/07/IMG_2547-300x225.jpg"
+published: true
 ---
+
 <img class="alignleft size-medium wp-image-1097" src="/wp-content/uploads/2014/07/IMG_2547-300x225.jpg" alt="IMG_2547" width="300" height="225" />
 
 Last week was awesome, not just because I took vacation but because my sister Nancy and my parents both came from California to spend the week with us here in hot, humid, and rainy Orlando.  Nancy came from Oakland a couple days before and met us in Amelia Island where I was a speaker at a conference. On Sunday we all drove back to Orlando and picked up my parents from the airport.
