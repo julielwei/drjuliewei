@@ -12,6 +12,8 @@ categories:
 tags: 
   - blog
 published: true
+featured-image: /myimage.jpg
+summary: A shorter summary, if you have or want one.
 ---
 
 
