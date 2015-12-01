@@ -1,12 +1,16 @@
 ---
-title: Vacation – Anticipation, Expectations, and What Really Matters
+title: "Vacation – Anticipation, Expectations, and What Really Matters"
 author: Dr. Julie Wei
 layout: post
-categories: [undefined]
-tags: [blog]
-permalink: /vacation-anticipation-expectations-really-matters/
-featured-image: /wp-content/uploads/2015/01/IMG_3010-300x225.jpg
+categories: 
+  - family
+tags: 
+  - blog
+permalink: "/vacation-anticipation-expectations-really-matters/"
+"featured-image": "/wp-content/uploads/2015/01/IMG_3010-300x225.jpg"
+published: true
 ---
+
 <img class="alignleft wp-image-1151 size-medium" style="margin-right: 15px;" src="/wp-content/uploads/2015/01/IMG_3010-300x225.jpg" alt="Vacation" width="300" height="225" />This week we are enjoying amazing family time for 3 here in Cabo San Lucas, Mexico.  Our timeshare week each year after Christmas has always been used as that, “time share”, where we bring down families and friends to enjoy our spacious suite at a nice resort.  Not that those weeks haven’t been special and provided great memories, but this is the first year that we came by ourselves and it’s definitely provided ability to focus better and kept me from being in “hostess” mode during my own vacation.
 
 We are so very fortunate to be able to plan and have “vacations”, that is, be able to travel away from home for several days to enjoy either a location of warmth and gorgeous beach or one of natural beauty requiring exploration like Rocky Mountain National Park.  Each year, I torture myself with the ritual of searching for hours online to find a great new location for us and plan our lodging, meals, and activities by reading endless reviews and indulge in a visual buffet of images. These hours spent planning the “perfect” vacation truly provides me the following:
