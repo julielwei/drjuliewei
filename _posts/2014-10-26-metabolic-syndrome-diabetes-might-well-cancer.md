@@ -2,11 +2,15 @@
 title: Metabolic Syndrome and Diabetes – It Might as Well be Cancer…
 author: Dr. Julie Wei
 layout: post
-categories: [undefined]
-tags: [blog]
-permalink: /metabolic-syndrome-diabetes-might-well-cancer/
-featured-image: /wp-content/uploads/2014/10/img_2101-300x300.jpg
+categories: 
+  - milk and cookie disease
+tags: 
+  - blog
+permalink: "/metabolic-syndrome-diabetes-might-well-cancer/"
+"featured-image": "/wp-content/uploads/2014/10/img_2101-300x300.jpg"
+published: true
 ---
+
 <img class="alignleft  wp-image-1071" src="/wp-content/uploads/2014/10/img_2101-300x300.jpg" alt="IMG_2101" width="193" height="193" />Since our move to Orlando last June, I have had to tell 5 families that their child has “cancer”. There is absolutely nothing worse than to tell parents that their child has a diagnosis of malignancy, regardless of what type, the medical and scientific characteristics of the particular type of cancer, and or the prognosis. What a parents hears, is that their child’s life is in grave danger and in fact the life we all take for granted is in fact not guaranteed.  This past week I had to tell another family such horrific news after surgically removing a large tumor from the neck of an amazing child who did not deserve such a diagnosis.
 
 There is no question that every parent would take a bullet for his/her child, and every one of us would rather get sick than have our child be the sick one. Yet, each and every day, we allow the industry, government, schools, and everyone else to knowingly or unknowingly inflict upon our children the most horrific epidemic American children have ever experienced. Obesity, [metabolic syndrome][1], and diabetes are what up to one third of this generation of children will suffer from for the rest of their lives. Even skinny children who may look “healthy” on the outside because they are not “obese”, are sicker than ever!

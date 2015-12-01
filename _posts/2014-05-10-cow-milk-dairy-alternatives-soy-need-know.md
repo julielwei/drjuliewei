@@ -1,12 +1,16 @@
 ---
-title: 'Silken Tofu Smoothies &#038; Yogurt'
+title: "Silken Tofu Smoothies &#038; Yogurt"
 author: Dr. Julie Wei
 layout: post
-categories: [undefined]
-tags: [blog]
-permalink: /cow-milk-dairy-alternatives-soy-need-know/
-featured-image: /wp-content/uploads/2014/05/silken-tofu-300x221.jpg
+categories: 
+  - food
+tags: 
+  - blog
+permalink: "/cow-milk-dairy-alternatives-soy-need-know/"
+"featured-image": "/wp-content/uploads/2014/05/silken-tofu-300x221.jpg"
+published: true
 ---
+
 <img class="alignleft size-medium wp-image-1057" src="/wp-content/uploads/2014/05/silken-tofu-300x221.jpg" alt="silken tofu" width="300" height="221" />Growing up in Taiwan, [tofu][1], soymilk, and other soy products were a part of my diet as it is in many Asian countries. While one may think it&#8217;s the equivalent of western cow milk and dairy products, Asians do not consume as much soy as what Westerners consume in dairy.   I drank some soy milk, some peanut milk, rice milk,  but as a toddler and child I am certain I didn&#8217;t drink 28 or > 34 ounces in a day of soymilk or any other liquid.  This is often what parents tell me how much a 2-3 year old may be drinking in a day!!!!
 
 Tofu itself does not have a strong taste of any kind, but that&#8217;s also why it&#8217;s so versatile for use in cooking in forms of various consistency.  As I meet families daily in clinic whose children consume an excessive amount of commercial cow&#8217;s milk or flavored milk, and eat lots of cheese and yogurt, we discuss the following when I suggest they cut back on cow milk based dairy products:
