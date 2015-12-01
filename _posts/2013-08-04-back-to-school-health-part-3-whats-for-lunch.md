@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /back-to-school-health-part-3-whats-for-lunch/
+featured-image: /wp-content/uploads/2013/08/7282266962_cfc4551cf5_m1.jpg
 ---
 <div style="width: 250px" class="wp-caption alignright">
   <a href="http://www.flickr.com/photos/49503003192@N01/7282266962" target="_blank"><img class="zemanta-img-inserted zemanta-img-configured" title="School lunch #1" alt="School lunch #1" src="/wp-content/uploads/2013/08/7282266962_cfc4551cf5_m1.jpg" width="240" height="240" /></a>

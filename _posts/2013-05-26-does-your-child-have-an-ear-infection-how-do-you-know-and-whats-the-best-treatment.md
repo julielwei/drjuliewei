@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /does-your-child-have-an-ear-infection-how-do-you-know-and-whats-the-best-treatment/
+featured-image: /wp-content/uploads/2013/08/Acute_Otitis_Media.jpg
 ---
 One of the most straightforward diagnosis that I encounter in clinics daily is that of ear infections, yet the topic of ear infections and ear tubes, as well as management of
 

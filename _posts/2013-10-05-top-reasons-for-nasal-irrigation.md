@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /top-reasons-for-nasal-irrigation/
+featured-image: /wp-content/uploads/2013/10/neilmed-sinus-rinse-238x300.jpg
 ---
 <img class="alignleft  wp-image-827" alt="neilmed-sinus-rinse" src="/wp-content/uploads/2013/10/neilmed-sinus-rinse-238x300.jpg" width="143" height="180" />I spent this week in Vancouver, British Columbia attending our annual [American Academy of Otolaryngology Head and Neck Surgery][1] meeting, where ENT specialists from the US and all over the globe come together to share their research results, clinical experience, as well as cutting edge ideas about how to help patients in every aspect of ENT diseases. While I am an ENT who specializes in treating children and am often interacting with colleagues who do what I do, I appreciate the opportunity at every one of these gatherings to meet new colleagues and gain tremendous new information about how to be better equipped to treat my patients.
 

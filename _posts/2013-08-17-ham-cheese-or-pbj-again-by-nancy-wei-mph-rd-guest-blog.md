@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /ham-cheese-or-pbj-again-by-nancy-wei-mph-rd-guest-blog/
+featured-image: /wp-content/uploads/2013/08/300px-Peanut-Butter-Jelly-Sandwich.jpg
 ---
 <div style="width: 310px" class="wp-caption alignright">
   <a href="http://commons.wikipedia.org/wiki/File:Peanut-Butter-Jelly-Sandwich.jpg" target="_blank"><img class="zemanta-img-inserted zemanta-img-configured" title="English: A peanut butter and jelly sandwich, m..." alt="English: A peanut butter and jelly sandwich, m..." src="/wp-content/uploads/2013/08/300px-Peanut-Butter-Jelly-Sandwich.jpg" width="300" height="170" /></a>

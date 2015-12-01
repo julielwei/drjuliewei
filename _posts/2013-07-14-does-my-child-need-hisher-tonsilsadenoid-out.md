@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /does-my-child-need-hisher-tonsilsadenoid-out/
+featured-image: /wp-content/uploads/2013/08/photo-2-150x150.jpg
 ---
 For over 10 years, parents and primary caretakers of children of all ages have come to see me to discuss whether their child needs to have his/her tonsil/adenoid removed.
 

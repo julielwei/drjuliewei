@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /hot-lunch-better-sandwiches/
+featured-image: /wp-content/uploads/2013/10/NS340WH004_Enlargement-150x150.png
 ---
 [<img class="alignleft  wp-image-806" alt="NS340WH004_Enlargement" src="/wp-content/uploads/2013/10/NS340WH004_Enlargement-150x150.png" width="90" height="90" />][1]
 

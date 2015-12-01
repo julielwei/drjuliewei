@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /metabolic-syndrome-diabetes-might-well-cancer/
+featured-image: /wp-content/uploads/2014/10/img_2101-300x300.jpg
 ---
 <img class="alignleft  wp-image-1071" src="/wp-content/uploads/2014/10/img_2101-300x300.jpg" alt="IMG_2101" width="193" height="193" />Since our move to Orlando last June, I have had to tell 5 families that their child has “cancer”. There is absolutely nothing worse than to tell parents that their child has a diagnosis of malignancy, regardless of what type, the medical and scientific characteristics of the particular type of cancer, and or the prognosis. What a parents hears, is that their child’s life is in grave danger and in fact the life we all take for granted is in fact not guaranteed.  This past week I had to tell another family such horrific news after surgically removing a large tumor from the neck of an amazing child who did not deserve such a diagnosis.
 

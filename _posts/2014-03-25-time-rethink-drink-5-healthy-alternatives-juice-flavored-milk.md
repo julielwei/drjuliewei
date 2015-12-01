@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /time-rethink-drink-5-healthy-alternatives-juice-flavored-milk/
+featured-image: /wp-content/uploads/2014/03/slide-image-1-300x168.jpg
 ---
 <blockquote id="yui_3_13_0_ym1_1_1395620443520_87386">
   <div id="yui_3_13_0_ym1_1_1395620443520_87385">

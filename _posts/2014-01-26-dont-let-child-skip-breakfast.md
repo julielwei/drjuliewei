@@ -5,13 +5,8 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /dont-let-child-skip-breakfast/
+featured-image: /wp-content/uploads/2014/01/3913363185_aa22763800_n.jpg
 ---
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 <div style="width: 330px" class="wp-caption alignright">
   <a href="http://www.flickr.com/photos/70668033@N00/3913363185" target="_blank"><img class="zemanta-img-inserted zemanta-img-configured" title="Breakfast Sandwich" alt="Breakfast Sandwich" src="/wp-content/uploads/2014/01/3913363185_aa22763800_n.jpg" width="320" height="240" /></a>
   

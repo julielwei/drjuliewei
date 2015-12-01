@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /taiwanese-expression-parental-love-food-cooking-planting-fruit-trees/
+featured-image: /wp-content/uploads/2014/07/IMG_2547-300x225.jpg
 ---
 <img class="alignleft size-medium wp-image-1097" src="/wp-content/uploads/2014/07/IMG_2547-300x225.jpg" alt="IMG_2547" width="300" height="225" />
 

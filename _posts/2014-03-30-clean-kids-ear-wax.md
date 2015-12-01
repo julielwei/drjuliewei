@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /clean-kids-ear-wax/
+featured-image: /wp-content/uploads/2014/04/275916513_aa101bded9_n.jpg
 ---
 <div style="width: 330px" class="wp-caption alignright">
   <a href="http://www.flickr.com/photos/26785399@N00/275916513" target="_blank"><img class="zemanta-img-inserted zemanta-img-configured" title="Q-Tips" alt="Q-Tips" src="/wp-content/uploads/2014/04/275916513_aa101bded9_n.jpg" width="320" height="240" /></a>

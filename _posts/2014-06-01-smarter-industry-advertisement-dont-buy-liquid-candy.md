@@ -5,28 +5,12 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /smarter-industry-advertisement-dont-buy-liquid-candy/
+featured-image: /wp-content/uploads/2014/06/IMG_2101-300x300.jpg
 ---
 <img class="alignleft size-medium wp-image-1071" src="/wp-content/uploads/2014/06/IMG_2101-300x300.jpg" alt="IMG_2101" width="300" height="300" />
 
 <img class="alignleft size-medium wp-image-1070" src="/wp-content/uploads/2014/06/IMG_2100-300x300.jpg" alt="IMG_2100" width="300" height="300" />
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 I am so grateful to our Emergency Department Physicians and Nurse Practitioners, who have continued to refer many children that come in to the ED for sudden[ “croup”][1] attacks as they know my passion for helping these families and children have fewer “attacks” after a “diet makeover”!  At least 4 out of 5 preschoolers that I see weekly in clinic for “recurrent croup” consistently have this in common: they are likely to drink milk at bedtime (mostly chocolate), and often drink juice at least 3-4 or more times per day!
 

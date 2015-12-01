@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /much-candy-child-drinking/
+featured-image: /wp-content/uploads/2014/06/candy_b01-1.png
 ---
 [<img class=" wp-image-1002  " alt="How Much Candy is Your Child Drinking?" src="/wp-content/uploads/2014/06/candy_b01-1.png" style="width: 100%; max-width: 610px;" />][1]
 Designed by Ryoko Iwata.

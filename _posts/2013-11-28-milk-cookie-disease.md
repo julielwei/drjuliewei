@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /milk-cookie-disease/
+featured-image: /wp-content/uploads/2013/11/Julie_MCD1-112x150.jpeg
 ---
 <img class="alignleft size-thumbnail wp-image-879" alt="Julie_MCD" src="/wp-content/uploads/2013/11/Julie_MCD1-112x150.jpeg" width="112" height="150" />
 

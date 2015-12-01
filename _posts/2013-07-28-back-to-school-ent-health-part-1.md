@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /back-to-school-ent-health-part-1/
+featured-image: /wp-content/uploads/2013/08/300px-Mono_tonsils.jpg
 ---
 <div style="width: 310px" class="wp-caption alignright">
   <a href="http://commons.wikipedia.org/wiki/File:Mono_tonsils.JPG" target="_blank"><img class="zemanta-img-inserted zemanta-img-configured" title="swollen tonsils." alt="swollen tonsils." src="/wp-content/uploads/2013/08/300px-Mono_tonsils.jpg" width="300" height="225" /></a>

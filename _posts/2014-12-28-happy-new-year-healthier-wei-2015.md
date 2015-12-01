@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /happy-new-year-healthier-wei-2015/
+featured-image: /wp-content/uploads/2014/12/IMG_3580-copy-225x300.jpg
 ---
 <img class="alignleft wp-image-1145 size-medium" style="padding-right: 20px;" src="/wp-content/uploads/2014/12/IMG_3580-copy-225x300.jpg" alt="IMG_3580 copy" width="225" height="300" />How many times have you thought about “New Year’s Resolutions” every December after a wonderful season of indulgence, great parties, celebrations of love with family and friends? I know I have the same conversation with myself year after year. Actually, to be precise, there is a quiet voice speaking to me in the background, reminding me that what I must resolve to do for the newyear is the following:
 

@@ -5,9 +5,8 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /kale-salad-almonds-apples/
+featured-image: /wp-content/uploads/2014/06/kale_salad_2-300x225.jpg
 ---
-&nbsp;
-
 <div id="attachment_1074" style="width: 310px" class="wp-caption alignleft">
   <img class="size-medium wp-image-1074" src="/wp-content/uploads/2014/06/kale_salad_2-300x225.jpg" alt="Kale Salad" width="300" height="225" />
   

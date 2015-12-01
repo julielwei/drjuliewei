@@ -11,8 +11,6 @@ permalink: "/teenager-chronic-fatigue/"
 published: true
 ---
 
-&nbsp;
-
 As I continue to ask every patient and their caretakers what their child’s eating and drinking habits are, specifically, what goes in the mouth and what time, I have found a serious crisis amongst American teenagers.  As adults, most people are not surprised and even expect that teenagers like junk food, drink soda, and most likely don’t eat their veggies.  Perhaps it’s more tolerated or even accepted as a part of the teenage year behavior along with not listening to parents.  While many may look “healthy” on the outside, especially if they are skinny and not obese, teenagers are often in my clinic or those of my Infectious Disease or Allergy/Immunology Clinics.
 
 They come because they may have “Chronic Fatigue Syndrome”.  Parents will come with a relatively quiet teenager who sits there looking bored, and tell me that their child is very tired all the time, often needing to take a nap as soon as they get home from school. They don’t have the energy to do much, and seem to be sleeping more than they should.  Some patients have had to miss many days of school because they are “too sick” to go to school.  I even met one 16 year old who failed home-schooling due to her chronic “illness”.  It is not unusual that by the time I meet these families, their pediatrician or family doctors have already checked their thyroid hormones, basic blood work to show that they don’t have low thyroid hormone or anemia as a cause of their symptoms.

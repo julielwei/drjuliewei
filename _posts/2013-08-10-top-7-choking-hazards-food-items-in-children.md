@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /top-7-choking-hazards-food-items-in-children/
+featured-image: /wp-content/uploads/2013/08/peanut-150x150.jpg
 ---
 [<img class="alignleft size-thumbnail wp-image-648" alt="peanut" src="/wp-content/uploads/2013/08/peanut-150x150.jpg" width="150" height="150" />][1]
 

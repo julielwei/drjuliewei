@@ -5,8 +5,8 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /back-school-night-ask/
+featured-image: /wp-content/uploads/2013/09/photo-5-150x150.jpg
 ---
-&nbsp;
 
 [<img class="alignleft size-thumbnail wp-image-789" alt="photo (5)" src="/wp-content/uploads/2013/09/photo-5-150x150.jpg" width="150" height="150" />][1]Happy Labor Day ! We are enjoying a great weekend as my parents are here visiting from Los Angeles, and my sister Nancy and her boyfriend Eddie are here from Oakland as well.  We have enjoyed many great meals, playing Monopoly, and several family walks here at Lake Nona.  Probably like most of other parents, we are glad that Claire has been in school now for about 2 weeks and we are beginning to feel like we&#8217;re back into our routines.  For us, three weekday afternoons she goes from school to an activity, and there are two weekdays during which she has a little more time to enjoy MindCraft on my iPad, or watch a little TV, and have more time to get homework done before dinner.  After dinner, it never feels like there is enough time, as just when we are enjoying a few minutes of togetherness,  I find myself tired, slightly cranky, and repeating, &#8220;it&#8217;s bedtime!&#8221;
 

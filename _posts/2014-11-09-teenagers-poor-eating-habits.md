@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /teenagers-poor-eating-habits/
+featured-image: /wp-content/uploads/2014/11/fp-greasy-pizza-300x200.jpg
 ---
 <img class="alignleft size-medium wp-image-1134" src="/wp-content/uploads/2014/11/fp-greasy-pizza-300x200.jpg" alt="Pizza" width="300" height="200" />Over the years, while I have focused on how the [Milk and Cookie Disease][1] cause preschoolers to have chronic snotty noses, congestion, snoring, and symptoms pretty much identical to when they have a real cold, I have also learned a great deal from talk to my teenage patients about their troubles. For teenagers, the most common complaint that bring them in to my office is &#8220;throat problems&#8221; instead of snotty runny noses that toddlers have. Since I always ask detailed questions like &#8220;what do you drink all day?&#8221;, &#8220;what is your favorite drink?&#8221;, and then I ask specifically about a teenager&#8217;s daily consumption of soda, juice, Gatorade, Powerade, any &#8220;&#8211;ade&#8221;, lemonade, sweet tea, etc.  I always ask the patient to list every liquid they drink that is not water.  Furthermore, I ask them the frequency and amount that they drink each non-water liquid.
 

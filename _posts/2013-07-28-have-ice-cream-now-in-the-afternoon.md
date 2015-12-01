@@ -5,6 +5,7 @@ layout: post
 categories: [undefined]
 tags: [blog]
 permalink: /have-ice-cream-now-in-the-afternoon/
+featured-image: /wp-content/uploads/2013/08/photo1-150x150.jpg
 ---
 <img class="alignleft size-thumbnail wp-image-602" alt="photo" src="/wp-content/uploads/2013/08/photo1-150x150.jpg" width="150" height="150" />
 
