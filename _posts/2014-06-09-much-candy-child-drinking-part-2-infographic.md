@@ -7,7 +7,6 @@ categories:
 tags: 
   - blog
 permalink: "/much-candy-child-drinking-part-2-infographic/"
-"featured-image": "/wp-content/uploads/2014/06/Info-Final.png"
 published: true
 ---
 
