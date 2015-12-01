@@ -18,13 +18,6 @@ Imagine if the voice box can never rest, what a terrible way to live!  Anyways,
 
 I have already forgiven myself, my work has just about consumed all my energy these days and I can’t really afford to lose more self-esteem.  Tomorrow will be a better day, tomorrow she will have minimal sugar again. Since her cough was so much less today, tomorrow maybe it will be just about gone. But we are hosting a dinner party tomorrow night….I will have to make sure we watch what goes in her mouth!   Oh, and Dave, well, he had a cold too, but we both remembered last night at 9:45, after the fireworks, several of the men gathered around the kitchen before we all left and they bonded over leftover pull pork sliders.  Rare for him to agree with me, but he did think that the rare late night eating likely led to some reflux,causing some of his throat discomfort this morning and today.Claire always reminds me of the term &#8220;[The Kitchen is Closed][2]&#8220;, which I affectionately titled my documentary trailer. I have to remind her that good choices need to occur throughout the day, not just in the evenings after dinner.
 
-<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
-
-<p style="height:80px">
-  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
-</p>
-
-
  [1]: the-book/ "The Book"
  [2]: the-video/ "The Video"
  [3]: the-book

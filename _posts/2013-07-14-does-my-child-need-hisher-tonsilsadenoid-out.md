@@ -58,21 +58,10 @@ During an acute infection, it may be easy to notice how large the tonsils are. O
 
 If your child has any of the symptoms above, talk to your child’s primary care physician about this and if they won’t refer you, go ahead and make your own appointment to see a pediatric ENT specialist or general ENT specialist (they care for both adults and children, but are not fellowship trained to only treat children and may not take care of complex ENT issues in children). I take pride in being a mother first, so each and every day when I meet a child and his/her family, I make sure that I get a detailed history, great exam, use a screening pediatric sleep questionnaire, and then discuss with the family my recommendation for the child as if he/she were my Claire.  I know I would want Claire’s doctors and specialist to do the same each and every day when making recommendations to us.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 <div class="zemanta-pixie" style="margin-top: 10px; height: 15px;">
   <a class="zemanta-pixie-a" title="Enhanced by Zemanta" href="http://www.zemanta.com/?px"><img class="zemanta-pixie-img" style="border: none; float: right;" alt="Enhanced by Zemanta" src="http://img.zemanta.com/zemified_e.png?x-id=7896c052-0245-477c-a56e-9018cda68008" /></a>
 </div>
 
-<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
-
-<p style="height:80px">
-  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
-</p>
 
 
  [1]: the-book

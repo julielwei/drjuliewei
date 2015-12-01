@@ -56,19 +56,8 @@ As a pediatric Ear, Nose, and Throat specialist, my differential diagnosis (cond
 
 **Summary.**If your child has suffered from chronic &#8220;stuffy nose&#8221;, first think about what he/she is eating and drinking and what time are they eating and drinking. You can start by making changes to their diet and dietary habits, and if things do not improve, definitely talk to your child&#8217;s primary care provider and consider referrals to ENT specialists and/or allergists.  As for a great treatment option for children (especially age 4 and older) with chronic stuffy nose, regardless of cause, read my blog on [&#8220;nasal saline irrigation&#8221;. ][8]
 
-&nbsp;
-
-&nbsp;
-
 <a class="button large or small button_e.g. green, yellow, purple, blue, red, black, grey" href="" target="" style="float:right or left; margin:e.g. 10, 15, 20px;">Your Text</a> 
 
-&nbsp;
-
-<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
-
-<p style="height:80px">
-  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
-</p>
 
 
  [1]: https://www.google.com/search?q=turbinates&espv=210&es_sm=93&source=lnms&tbm=isch&sa=X&ei=eqCSUu6eFvPQsAT_wYCgBw&ved=0CAkQ_AUoAQ&biw=1600&bih=798#facrc=_&imgdii=_&imgrc=z0fExJQIQCferM%3A%3B8rQbGiQU_0oz8M%3Bhttp%253A%252F%252Fwww.turbinatereductionsurgery.com%252Fwp-content%252Fuploads%252F2011%252F05%252Fturbinate-reduction-surgery.jpg%3Bhttp%253A%252F%252Fwww.turbinatereductionsurgery.com%252Fturbinate-reduction-info%252Fturbinate-reduction%252F%3B900%3B871

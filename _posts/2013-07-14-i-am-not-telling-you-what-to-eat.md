@@ -20,12 +20,6 @@ I hope everyone gets the opportunity to watch [“Fat, Sick, and Nearly Dead”]
 
 To all those out there who do not have a child in their life that may suffer from the [“Milk and Cookie Disease”][3], please ignore me and what I have to say is of no relevance to you. It does not bother me. It is to all those who love a child that may have been suffering and are looking for alternative answers from medication and surgery, my efforts and commitment are for you and your child.  I coined the term the “Milk and Cookie Disease” only because it was “catchy” and reflected the excessive dairy and sugar in our current American diet today.  How was I to know that it may inflame some as if restricting dairy and sugar is similar to prohibition and banning firearms?  Oh well….  I will continue to “Do the right thing’ and always advocate for children’s health through better diet and dietary habits.
 
-<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
-
-<p style="height:80px">
-  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
-</p>
-
 
  [1]: http://www.ahealtheirwei.com/
  [2]: http://www.fatsickandnearlydead.com/

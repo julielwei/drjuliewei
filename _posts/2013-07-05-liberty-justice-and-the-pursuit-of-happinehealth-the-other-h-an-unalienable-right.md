@@ -15,19 +15,6 @@ Tonight we are blessed to go to our friend’s for dinner, so one less meal for 
 
 Even though I am of Buddhist faith and believe in reincarnation, I know that this life, today, and every moment, I am here to exercise my right to avoiding suffering and helping those around me avoid suffering. Buddhism defines life as suffering, and our human nature results in our suffering.  But we can consciously and thoughtfully try to respect and care for our bodies, as hard as that is in this current world. My shopping trip today involved mostly fresh fruits, vegetables, salmon, chicken, Boston pork butt (Dave is making pulled pork this weekend for company using his amazing Tragger grill!), but I also gave in and bought 1 4-pack of pudding cups, one package of “Turtle” candies, and a package of double chocolate Milano cookies. I know I am still a great mom because I did spend most of my time in the periphery of the store selecting fresh fruits and vegetables.  The hour walk this morning helped me feel better about my decision to try and be as healthy as I can be, while enjoying company and great food tonight. We have to encourage ourselves and each other to view “Health” and being “Healthy” as not an option, but a goal that we can work towards in any way, big or small, as many days as we can, so that we feel better physically and mentally, and need as little medications or other “interventions” as possible. If we can do this, then our children and their children may have a chance to view being “healthy” and pursue health as an unalienable right.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-<span style="width:105px;display:table;margin:0 auto;"><a href="the-book/"><img src="/wp-content/uploads/2014/04/AHealthierWei_cover_150.png" /></a></span>
-
-<p style="height:80px">
-  <span style="width:130px;display:inline-block;vertical-align:top;"> Order the Book <a href="https://itunes.apple.com/us/book/a-healthier-wei/id806784060?ls=1&mt=11#" target="_blank" > <img class="size-full wp-image-944" alt="Apple iBooks" title="Apple iBooks" src="/wp-content/uploads/2014/02/Download_on_iBooks_Badge_US-UK_110x40_090513.png" width="110" height="40" /></a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1fSNqeb" target="_blank" > <img class="size-full wp-image-945" alt="Amazon.com" title="Amazon.com" src="/wp-content/uploads/2014/02/amazon_com_logo_160.jpg" width="160" height="47" /> </a> </span> <span  style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://amzn.to/1eHEfNl" target="_blank" > <img class="size-full wp-image-946" alt="Amazon Kindle" title="Amazon Kindle" src="/wp-content/uploads/2014/02/kindle_logo_160.jpg" width="160" height="43" /> </a> </span> <span style="width:150px;display:inline-block;vertical-align:top;">Available on <a href="http://www.barnesandnoble.com/w/a-healthier-wei-julie-wei/1118260302?ean=2940148244592&itm=1&usri=2940148244592" target="_blank" > <img class="size-full wp-image-947" alt="Nook" title="Nook" src="/wp-content/uploads/2014/02/nook_logo_160.png" width="160" height="52" /></a> </span>
-</p>
-
-
 
  [1]: wp-content/uploads/2013/07/photo.jpg
  [2]: the-book
