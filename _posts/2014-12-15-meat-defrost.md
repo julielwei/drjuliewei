@@ -1,11 +1,15 @@
 ---
-title: 'If Meat Would Defrost Itself&#8230;.'
+title: "If Meat Would Defrost Itself&#8230;."
 author: Dr. Julie Wei
 layout: post
-categories: [undefined]
-tags: [blog]
-permalink: /meat-defrost/
+categories: 
+  - food
+tags: 
+  - blog
+permalink: "/meat-defrost/"
+published: true
 ---
+
 I used to tell people that if meat would defrost itself, divorce rate would be half of what it is, since deep down I truly believe this is a major factor that adds stress into most family&#8217;s lives. If meat had the ability to escape from the freezer out to the counter top, conveniently and in time for me to make dinner the moment I walk in the door, there would have been many nights Dave and I could have avoided tension and I would have managed myself better.
 
 Let me start by clearly stating that I am married to a great guy who is an amazing father, and as we approach our 11th year wedding anniversary I am continually grateful for Dave&#8217;s incredibly and superhuman ability to fix all things electronic, computer-related, household related, car-related, and basically there is NOTHING my husband can&#8217;t fix&#8230;except dinner ! UNLESS we have communicated and have a plan, then he is absolutely able to make that too!
